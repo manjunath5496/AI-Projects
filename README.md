@@ -813,7 +813,11 @@
 <li><a href="https://fuel.readthedocs.io/en/latest/">Fuel</a>&nbsp;is a data pipeline framework which provides your machine learning models with the data they need. It is planned to be used by both the&nbsp;<a href="https://github.com/mila-udem/blocks">Blocks</a>&nbsp;and&nbsp;<a href="https://github.com/lisa-lab/pylearn2">Pylearn2</a>&nbsp;neural network libraries.<br />Contributors: 32 (10% up), Commits: 1116, Github URL:&nbsp;<a href="https://github.com/mila-udem/fuel">Fuel</a></li>
 </ol>
 
-
+<hr>
+<ul>
+<li id="title"><a href="https://github.com/manjunath5496/AI-Projects/blob/main/4.pdf">15 Exciting AI Project Ideas for Beginners</a></li>
+</ul>
+<hr>
 
 
 
