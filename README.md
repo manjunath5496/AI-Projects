@@ -327,7 +327,7 @@
 </br>
 
 <div class="toctitle" dir="ltr" lang="en">
-<h2>Projects</h2>
+<h2>List of Projects</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
 <li class="toclevel-1 tocsection-15"><a href="#firstHeading">List of artificial intelligence projects</a></li>
