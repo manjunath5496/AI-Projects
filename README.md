@@ -441,6 +441,8 @@
 <li><a title="Watson (computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)">Watson</a>, a pilot service by&nbsp;<a title="IBM" href="https://en.wikipedia.org/wiki/IBM">IBM</a>&nbsp;to uncover and share data-driven insights, and to spur cognitive applications.</li>
 </ul>
 <p>&nbsp;</p>
+
+<h2>Best 59 artificial intelligence projects for beginners</h2>
 <ol>
 <li><a href="https://github.com/aimacode/aima-python"><strong>aimacode/aima-python</strong></a>&nbsp; python execution of algorithms from russell and norvig&rsquo;s &ldquo;computerized reasoning &ndash; a cutting edge approach&rdquo;</li>
 <li><a href="https://github.com/ryanb/ruby-warrior"><u><strong>ryanb/ruby-warrior</strong></u></a>&nbsp; A game written in ruby language for learning ruby &amp; AI.</li>
