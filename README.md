@@ -338,7 +338,7 @@
 <li class="toclevel-1 tocsection-3"><a href="#list4"><span class="toctext">6 Challenging Open Source Data Science Projects to Make you a Better Data Scientist</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#list5">15 Best Data Science GitHub Repositories</a></li>
 <li class="toclevel-1 tocsection-8"><a href="#list6">7 Innovative Machine Learning Projects</a></li>
-<li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
+<li class="toclevel-1 tocsection-11"><a href="#list7">15 Best Machine Learning Frameworks</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
 <li class="toclevel-1 tocsection-9"><a href="#philosophy"> Philosophy Of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
@@ -768,3 +768,29 @@
 <li><a href="https://github.com/BlackHC/tfpyth" target="_blank" rel="noopener noreferrer">tfpyth &ndash; TensorFlow to PyTorch to TensorFlow</a>&nbsp;(Programming)</li>
 <li><a href="https://github.com/Tencent/MedicalNet" target="_blank" rel="noopener noreferrer">MedicalNet</a></li>
 </ul>
+</br>
+
+<h2 id="list7" class="post-full-title">15 Best Machine Learning Frameworks</h2>
+<ul>
+<li id="1-blocks"><a href="https://github.com/mila-iqia/blocks">Blocks</a></li>
+<li id="2-analytics-zoo"><a href="https://github.com/intel-analytics/analytics-zoo">Analytics Zoo</a></li>
+<li id="3-ml5-js"><a href="https://github.com/ml5js/ml5-library">ML5.js</a></li>
+<li id="4-adanet"><a href="https://github.com/tensorflow/adanet">AdaNet</a></li>
+<li id="5-mljar"><a href="https://github.com/mljar/mljar-supervised.">Mljar</a></li>
+<li id="6-convnetjs"><a href="https://github.com/karpathy/convnetjs">ConvNetJS</a></li>
+<li id="7-nni-neural-network-intelligence-"><a href="https://github.com/Microsoft/nni">NNI (Neural Network Intelligence)</a></li>
+<li id="8-datumbox"><a href="https://github.com/datumbox/datumbox-framework">Datumbox</a></li>
+<li id="9-xai-an-explainability-toolbox-for-ml-"><a href="https://github.com/EthicalML/xai">XAI (An eXplainability toolbox for ML)</a></li>
+<li id="10-plato"><a href="https://github.com/uber-research/plato-research-dialogue-system">Plato</a></li>
+<li id="11-deepdetect"><a href="https://github.com/jolibrain/deepdetect">DeepDetect</a></li>
+<li id="12-streamlit"><a href="https://github.com/streamlit/streamlit">Streamlit</a></li>
+<li id="13-dopamine"><a href="https://github.com/google/dopamine">Dopamine</a></li>
+<li id="14-turicreate"><a href="https://github.com/apple/turicreate">TuriCreate</a></li>
+<li id="15-flair"><a href="https://github.com/flairNLP/flair">Flair</a></li>
+</ul>
+
+
+
+
+
+
