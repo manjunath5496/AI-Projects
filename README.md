@@ -625,7 +625,7 @@
 <p align="left">47.)&nbsp;<strong><a href="https://github.com/hughperkins/DeepCL">DeepCL</a></strong></p>
 <p align="left">OpenCL library to train deep convolutional neural networks.</p>
 <p align="left">48.)&nbsp;<strong><a href="https://github.com/dotnet/machinelearning">ML.NET</a></strong></p>
-<p align="left">Visual Search using Tensorflow inception model &amp; Approximate Nearest Neighbors.</p>
+<p align="left">ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers with the same code that powers machine learning across many Microsoft products, including Power BI, Windows Defender, and Azure.</p>
 <p align="left">49.)&nbsp;<strong><a href="https://github.com/beniz/deepdetect">Deep Detect</a></strong></p>
 <p align="left">Deep Learning API and Server in C++11 with Python bindings and support for Caffe.</p>
 <p align="left">50.)&nbsp;<strong><a href="https://github.com/karpathy/neuraltalk2">Neural Talk 2</a></strong></p>
