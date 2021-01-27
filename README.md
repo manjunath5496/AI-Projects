@@ -333,7 +333,7 @@
 <li class="toclevel-1 tocsection-15"><a href="#firstHeading">List of artificial intelligence projects</a></li>
 <li class="toclevel-1 tocsection-7"><a href="#list"><span class="toctext">Best 59 Artificial Intelligence Projects For Beginners</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#list1"><span class="toctext">Top 50 Awesome Deep Learning Projects</span></a></li>
-<li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
+<li class="toclevel-1 tocsection-1"><a href="#list2">Top 35 Machine Learning Projects</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#firstHeading"><span class="toctext">Glossary of Artificial Intelligence</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
@@ -632,7 +632,7 @@
 <p align="left">50.)&nbsp;<strong><a href="https://github.com/karpathy/neuraltalk2">Neural Talk 2</a></strong></p>
 <p align="left">Efficient Image Captioning code in Torch, runs on GPU.</p>
 </br>
-<h2 id="list2" class="entry-title">TOP 35 Machine Learning Projects</h2>
+<h2 id="list2" class="entry-title">Top 35 Machine Learning Projects</h2>
 <p><strong>1.)&nbsp;</strong><strong><a href="https://github.com/airbnb/aerosolve">Aerosolve</a></strong></p>
 <p>A machine learning package built for humans.</p>
 <p class="western"><strong>2.)&nbsp;</strong><a href="https://github.com/scikit-learn/scikit-learn"><strong>Scikit-learn</strong></a></p>
