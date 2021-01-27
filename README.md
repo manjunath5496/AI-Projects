@@ -441,3 +441,64 @@
 <li><a title="Watson (computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)">Watson</a>, a pilot service by&nbsp;<a title="IBM" href="https://en.wikipedia.org/wiki/IBM">IBM</a>&nbsp;to uncover and share data-driven insights, and to spur cognitive applications.</li>
 </ul>
 <p>&nbsp;</p>
+<ol>
+<li><a href="https://github.com/aimacode/aima-python"><strong>aimacode/aima-python</strong></a>&nbsp; python execution of algorithms from russell and norvig&rsquo;s &ldquo;computerized reasoning &ndash; a cutting edge approach&rdquo;</li>
+<li><a href="https://github.com/ryanb/ruby-warrior"><u><strong>ryanb/ruby-warrior</strong></u></a>&nbsp; A game written in ruby language for learning ruby &amp; AI.</li>
+<li><a href="https://github.com/owainlewis/awesome-artificial-intelligence"><strong>owainlewis/awesome-artificial-intelligence</strong></a>&nbsp;a curated rundown of AI courses, books, video lectures, papers etc</li>
+<li><a href="https://github.com/opencog/opencog"><u><strong>opencog/opencog</strong></u></a>&nbsp;a system for incorporated AI and artificial general intelligence AGI.</li>
+<li><a href="https://github.com/datasciencebr/serenata-de-amor"><u><strong>datasciencebr/serenata-de-amor</strong></u></a>&nbsp; artificial intelligence for social control of open organization</li>
+<li><a href="https://github.com/swift-ai/swift-ai"><strong>swift-ai/swift-ai</strong></a>&nbsp; A machine learning library on swift.</li>
+<li><a href="https://github.com/kailashahirwar/cheatsheets-ai"><strong>kailashahirwar/cheatsheets-ai</strong></a>&nbsp; A cheat sheets for deep learning and machine learning analysts.</li>
+<li><a href="https://github.com/facebookresearch/fairseq-py"><u><strong>facebookresearch/fairseq-py</strong></u></a>&nbsp;facebook ai investigate sequence-to-sequence toolbox written in python.</li>
+<li><a href="https://github.com/alibaba/gym-starcraft"><strong>alibaba/gym-starcraft</strong></a>&nbsp;starcraft condition for openai gym, in light of facebook&rsquo;s torchcraft.(in advance)</li>
+<li><a href="https://github.com/aimacode/aima-java"><strong>aimacode/aima-java</strong></a>&nbsp;java usage of algorithms from russell and norvig&rsquo;s</li>
+<li><a href="https://github.com/microsoft/malmo"><strong>microsoft/malmo</strong></a>&nbsp;project malmo is a stage for artificial intelligence experimentation and research based over minecraft.</li>
+<li><a href="https://github.com/mycroftai/mycroft-core"><u><strong>mycroftai/mycroft-core</strong></u></a>&nbsp;mycroft core, the mycroft artificial intelligence stage.</li>
+<li><a href="https://github.com/microsoft/airsim"><strong>microsoft/airsim</strong></a>&nbsp;open source test system in view of unreal engine for self-sufficient vehicles from microsoft ai &amp; research</li>
+<li><a href="https://github.com/pipelineai/pipeline"><u><strong>pipelineai/pipeline</strong></u></a>&nbsp;: end-to-end ml and ai stage for real-time spark and tensorflow data pipelines</li>
+<li><a href="https://github.com/fossasia/susi_server"><strong>fossasia/susi_server</strong></a>&nbsp;software and abilities for individual assistants using susi ai / artificial intelligence for chat bots.</li>
+<li><a href="https://github.com/serpentai/serpentai"><u><strong>serpentai/serpentai</strong></u></a>&nbsp;&nbsp;framework for game agent. helping you create ais / bots to play any diversion you claim.</li>
+<li><a href="https://github.com/chrisalbon/mlai"><u><strong>chrisalbon/mlai</strong></u></a>&nbsp; complete notes on machine learning and artificial intelligence.</li>
+<li><a href="https://github.com/shahariarrabby/deeplearning.ai"><strong>shahariarrabby/deeplearning.ai</strong></a>&nbsp;deeplearning.ai , by andrew ng, includes all slide and video link</li>
+<li><a href="https://github.com/ivanseidel/iamdinosaur"><u><strong>ivanseidel/iamdinosaur</strong></u></a>&nbsp; an artificial inteligence to show google&rsquo;s dinosaur to jump cactus</li>
+<li><a href="https://github.com/pushkar/abagail"><strong>pushkar/abagail</strong></a>&nbsp;the library contains various interconnected java bundles that execute machine learning and AI.</li>
+<li><a href="https://github.com/rasbt/deep-learning-book"><strong>rasbt/deep-learning-book</strong></a>&nbsp;Handy Practical Guide for &ldquo;introduction to artificial neural networks and deep learning.</li>
+<li><a href="https://github.com/olistic/warriorjs"><strong>olistic/warriorjs</strong></a>&nbsp;&nbsp;A game written in javascript for learning javascript and AI.</li>
+<li><a href="https://github.com/jeffheaton/aifh"><strong>jeffheaton/aifh</strong></a>&nbsp;artificial intelligence variant for humans</li>
+<li><a href="https://github.com/chuyangliu/snake"><strong>chuyangliu/snake</strong></a>&nbsp;ai variant of the snake game.</li>
+<li><a href="https://github.com/zulko/easyai"><u><strong>zulko/easyai</strong></u></a>&nbsp;python artificial intelligence variant framework for games</li>
+<li><a href="https://github.com/emilmont/artificial-intelligence-and-machine-learning"><strong>emilmont/artificial-intelligence-and-machine-learning</strong></a>&nbsp;algorithm usage and homework answers for the stanford&rsquo;s online courses</li>
+<li><a href="https://github.com/alexa-pi/alexapi"><u><strong>alexa-pi/alexapi</strong></u></a>&nbsp;alexa customer for every one of your gadgets.</li>
+<li><a href="https://github.com/simpleai-team/simpleai"><u><strong>simpleai-team/simpleai</strong></u></a>&nbsp;simple artificial intelligence utilities</li>
+<li><a href="https://github.com/chrisalbon/mlai"><u><strong>chrisalbon/mlai</strong></u></a>&nbsp;notes on machine learning and AI.</li>
+<li><a href="https://github.com/alfredfrancis/ai-chatbot-framework"><strong>alfredfrancis/ai-chatbot-framework</strong></a>&nbsp;a python chatbot system with NLP and AI.</li>
+<li><a href="https://github.com/libgdx/gdx-ai"><u><strong>libgdx/gdx-ai</strong></u></a>&nbsp;artificial intelligence framework for games based on libgdx.</li>
+<li><a href="https://github.com/primaryobjects/ai-programmer"><u><strong>primaryobjects/ai-programmer</strong></u></a>&nbsp;using AI and genetic algorithms to consequently compose programs.</li>
+<li><a href="https://github.com/tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials"><strong>tarrysingh/artificial-intelligence-deep-learning-machine-learning-tutorials</strong></a>&nbsp;a comprehensive list of deep learning / artificial intelligence and machine learning instructional exercises.</li>
+<li><a href="https://github.com/aichallenger/ai_challenger"><strong>aichallenger/ai_challenger</strong></a>&nbsp; A stage for open datasets and programming rivalries to AI talents.</li>
+<li><a href="https://github.com/idmillington/aicore"><u><strong>idmillington/aicore</strong></u></a>&nbsp;the artificial intelligence code going with the book &ldquo;artificial intelligence for games&rdquo;</li>
+<li><a href="https://github.com/sergiofierens/ai4r"><strong>sergiofierens/ai4r</strong></a>&nbsp; A ruby area for ai researchers</li>
+<li><a href="https://github.com/andelf/pyaiml"><strong>andelf/pyaiml</strong></a>&nbsp;pyaiml is an translator for aiml &ndash; artificial intelligence markup language</li>
+<li><a href="https://github.com/jiqizhixin/artificial-intelligence-terminology"><strong>jiqizhixin/artificial-intelligence-terminology</strong></a>&nbsp;the english-chinese combined wordings in artificial intelligence space</li>
+<li><a href="https://github.com/aimacode/aima-javascript"><strong>aimacode/aima-javascript</strong></a>&nbsp;javascript visualization and execution of algorithms from russell and norvig&rsquo;s</li>
+<li><u><strong><a href="https://github.com/udacity/artificial-intelligence">udacity/artificial-intelligence</a>&nbsp;</strong></u>AI from Udacity .</li>
+<li><a href="https://github.com/artificial-engineering/lycheejs"><u><strong>artificial-engineering/lycheejs</strong></u></a>&nbsp;&nbsp;cutting edge ai-assisted isomorphic app engine for embedded, console, mobile, server etc</li>
+<li><a href="https://github.com/halitechallenge/halite"><strong>halitechallenge/halite</strong></a>&nbsp; A first artificial intelligence programming challenge</li>
+<li><a href="https://github.com/innoarchitech/datascience-ai-machinelearning-resources"><strong>innoarchitech/datascience-ai-machinelearning-resources</strong></a>&nbsp; A complete set of resources for artificial intelligence (ai), machine learning, data science, big data, from alex castrouni.</li>
+<li><a href="https://github.com/alexsosn/ios_ml"><u><strong>alexsosn/ios_ml</strong></u></a>&nbsp; A complete list of machine learning, ai, nlp solutions for ios.</li>
+<li><a href="https://github.com/botlibre/botlibre"><strong>botlibre/botlibre</strong></a>&nbsp;an open stage for AI, chat bots, virtual agents, social media automation, live chat etc.</li>
+<li><a href="https://github.com/mark-watson/java-ai-book-code"><u><strong>mark-watson/java-ai-book-code</strong></u></a>&nbsp;code cases for java artificial intelligence book</li>
+<li><a href="https://github.com/rubenszimbres/repo-2016"><strong>rubenszimbres/repo-2016</strong></a>&nbsp;r, python and mathematica source codes in machine learning, deep learning, artificial intelligence.</li>
+<li><a href="https://github.com/tooangel/screeps"><strong>tooangel/screeps</strong></a>&nbsp;artificial intelligence for screeps</li>
+<li><a href="https://github.com/lipiji/aistartups"><strong>lipiji/aistartups</strong></a>&nbsp;startups about artificial intelligence.</li>
+<li><a href="https://github.com/abhshkdz/ai-deadlines"><strong>abhshkdz/ai-deadlines</strong></a>&nbsp; ai conference/meetings due date commencements</li>
+<li><a href="https://github.com/alphatica/genotick"><u><strong>alphatica/genotick</strong></u></a>&nbsp;artificial intelligence data analysis</li>
+<li><a href="https://github.com/yanshengjia/artificial-intelligence"><u><strong>yanshengjia/artificial-intelligence</strong></u></a>&nbsp;seu cse projects</li>
+<li><a href="https://github.com/zulko/easyai"><u><strong>zulko/easyai</strong></u></a>&nbsp;python artificial intelligence structure for games</li>
+<li><a href="https://github.com/kashyap32/ai-resources"><strong>kashyap32/ai-resources</strong></a>&nbsp; Set of selected resources to learn artificial intelligence / machine learning / deep learning</li>
+<li><a href="https://github.com/memo/ai-resources"><u><strong>memo/ai-resources</strong></u></a>&nbsp; Set of selected resources to learn artificial intelligence / machine learning / statistical inference / deep learning etc</li>
+<li><a href="https://github.com/dickreuter/poker"><u><strong>dickreuter/poker</strong></u></a>&nbsp;fully functional pokerbot that deals on partypoker and pokerstars.</li>
+<li><a href="https://github.com/aimacode/aima-data"><strong>aimacode/aima-data</strong></a>&nbsp;data records to go with the the algorithms from norvig and russell&rsquo;s</li>
+<li><a href="https://github.com/moondroid/chatbot"><strong>moondroid/chatbot</strong></a>&nbsp;android chat experiment with an a.l.i.c.e. artificial intelligence.</li>
+<li><a href="https://github.com/nfraenkel/cis521"><strong>nfraenkel/cis521</strong></a>&nbsp;intro to artificial intelligence</li>
+</ol>
