@@ -331,7 +331,7 @@
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
 <ul>
 <li class="toclevel-1 tocsection-15"><a href="#firstHeading">List of artificial intelligence projects</a></li>
-<li class="toclevel-1 tocsection-7"><a href="#list"><span class="toctext">Best 59 Artificial Intelligence Projects For Beginners</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#list"><span class="toctext">Best 57 Artificial Intelligence Projects For Beginners</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#list1"><span class="toctext">Top 50 Awesome Deep Learning Projects</span></a></li>
 <li class="toclevel-1 tocsection-1"><a href="#list2">Top 35 Machine Learning Projects</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#list3"><span class="toctext">6 Open-Source Projects to Become Future-Ready Data Scientist</span></a></li>
@@ -471,7 +471,7 @@
 </ul>
 <p>&nbsp;</p>
 
-<h2 id="list">Best 59 Artificial Intelligence Projects For Beginners</h2>
+<h2 id="list">Best 57 Artificial Intelligence Projects For Beginners</h2>
 <ol>
 <li><a href="https://github.com/aimacode/aima-python"><strong>aimacode/aima-python</strong></a>&nbsp; python execution of algorithms from russell and norvig&rsquo;s &ldquo;computerized reasoning &ndash; a cutting edge approach&rdquo;</li>
 <li><a href="https://github.com/ryanb/ruby-warrior"><u><strong>ryanb/ruby-warrior</strong></u></a>&nbsp; A game written in ruby language for learning ruby &amp; AI.</li>
@@ -515,7 +515,7 @@
 <li><u><strong><a href="https://github.com/udacity/artificial-intelligence">udacity/artificial-intelligence</a>&nbsp;</strong></u>AI from Udacity .</li>
 <li><a href="https://github.com/artificial-engineering/lycheejs"><u><strong>artificial-engineering/lycheejs</strong></u></a>&nbsp;&nbsp;cutting edge ai-assisted isomorphic app engine for embedded, console, mobile, server etc</li>
 <li><a href="https://github.com/halitechallenge/halite"><strong>halitechallenge/halite</strong></a>&nbsp; A first artificial intelligence programming challenge</li>
-<li><a href="https://github.com/innoarchitech/datascience-ai-machinelearning-resources"><strong>innoarchitech/datascience-ai-machinelearning-resources</strong></a>&nbsp; A complete set of resources for artificial intelligence (ai), machine learning, data science, big data, from alex castrouni.</li>
+
 <li><a href="https://github.com/alexsosn/ios_ml"><u><strong>alexsosn/ios_ml</strong></u></a>&nbsp; A complete list of machine learning, ai, nlp solutions for ios.</li>
 <li><a href="https://github.com/botlibre/botlibre"><strong>botlibre/botlibre</strong></a>&nbsp;an open stage for AI, chat bots, virtual agents, social media automation, live chat etc.</li>
 <li><a href="https://github.com/mark-watson/java-ai-book-code"><u><strong>mark-watson/java-ai-book-code</strong></u></a>&nbsp;code cases for java artificial intelligence book</li>
@@ -523,7 +523,6 @@
 <li><a href="https://github.com/tooangel/screeps"><strong>tooangel/screeps</strong></a>&nbsp;artificial intelligence for screeps</li>
 <li><a href="https://github.com/lipiji/aistartups"><strong>lipiji/aistartups</strong></a>&nbsp;startups about artificial intelligence.</li>
 <li><a href="https://github.com/abhshkdz/ai-deadlines"><strong>abhshkdz/ai-deadlines</strong></a>&nbsp; ai conference/meetings due date commencements</li>
-<li><a href="https://github.com/alphatica/genotick"><u><strong>alphatica/genotick</strong></u></a>&nbsp;artificial intelligence data analysis</li>
 <li><a href="https://github.com/yanshengjia/artificial-intelligence"><u><strong>yanshengjia/artificial-intelligence</strong></u></a>&nbsp;seu cse projects</li>
 <li><a href="https://github.com/zulko/easyai"><u><strong>zulko/easyai</strong></u></a>&nbsp;python artificial intelligence structure for games</li>
 <li><a href="https://github.com/kashyap32/ai-resources"><strong>kashyap32/ai-resources</strong></a>&nbsp; Set of selected resources to learn artificial intelligence / machine learning / deep learning</li>
