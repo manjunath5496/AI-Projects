@@ -442,7 +442,7 @@
 </ul>
 <p>&nbsp;</p>
 
-<h2>Best 59 artificial intelligence projects for beginners</h2>
+<h2>Best 59 Artificial Intelligence Projects For Beginners</h2>
 <ol>
 <li><a href="https://github.com/aimacode/aima-python"><strong>aimacode/aima-python</strong></a>&nbsp; python execution of algorithms from russell and norvig&rsquo;s &ldquo;computerized reasoning &ndash; a cutting edge approach&rdquo;</li>
 <li><a href="https://github.com/ryanb/ruby-warrior"><u><strong>ryanb/ruby-warrior</strong></u></a>&nbsp; A game written in ruby language for learning ruby &amp; AI.</li>
