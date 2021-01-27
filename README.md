@@ -843,7 +843,8 @@ devaluation</a></li>
   
 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(9).pdf" style="text-decoration:none;">CS 473: Algorithms</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(9).pdf" style="text-decoration:none;">Convergence Results for Single-Step On-Policy
+Reinforcement-Learning Algorithms</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(10).pdf" style="text-decoration:none;">A Theory of Cerebellar Function</a></li>                              
@@ -1030,8 +1031,8 @@ Approximation Converges to a Region</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(99).pdf" style="text-decoration:none;">The basal ganglia</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(100).pdf" style="text-decoration:none;">Variance Reduction Techniques for Gradient
-Estimates in Reinforcement Learning</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(100).pdf" style="text-decoration:none;">Timing and partial observability in the
+dopamine system</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(101).pdf" style="text-decoration:none;">Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning</a></li> 
   
@@ -1139,7 +1140,7 @@ new anatomical and computational perspectives</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(147).pdf" style="text-decoration:none;">
 When the Best Move Isn't Optimal: Q-learning with Exploration</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(148).pdf" style="text-decoration:none;">Using Document Level Cross-Event Inference to Improve Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(148).pdf" style="text-decoration:none;">Matters temporal</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(149).pdf" style="text-decoration:none;">Neural Ensembles in CA3 Transiently Encode Paths Forward of the Animal at a Decision Point</a></li>   
   
@@ -1156,7 +1157,7 @@ Reinforcement Learning</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(155).pdf" style="text-decoration:none;">Marko Process and the Dirichlet Problem</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(156).pdf" style="text-decoration:none;">A Structured Distributional Semantic Model for Event Co-reference</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(156).pdf" style="text-decoration:none;">Reinforcement Learning with Perceptual Aliasing: The Perceptual Distinctions Approach</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(157).pdf" style="text-decoration:none;">Monte Carlo Methods</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(158).pdf" style="text-decoration:none;">Predictability, surprise, attention, and conditioning</a></li>
    
@@ -1188,7 +1189,7 @@ A Heterostatic Theory</a></li>
 A Survey</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(173).pdf" style="text-decoration:none;">Bandit based Monte-Carlo Planning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(174).pdf" style="text-decoration:none;">A Model for learning Systems</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(175).pdf" style="text-decoration:none;">On the asymptotic equivalence between differential Hebbian and temporal difference learning using a local third factor</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(176).pdf" style="text-decoration:none;">The Fixed Points of Off-Policy TD</a></li>  
    
