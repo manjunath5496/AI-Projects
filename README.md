@@ -1340,7 +1340,7 @@ Reinforcement Learning with Multiple Objectives</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(67).pdf" style="text-decoration:none;">Projected equation methods for approximate solution of large linear systems</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(68).pdf" style="text-decoration:none;">On Generalized Bellman Equations and
-Temporal-Dierence Learning </a></li> 
+Temporal-Difference Learning </a></li> 
  
   
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(69).pdf" style="text-decoration:none;">Actions and Habits: The Development of Behavioural Autonomy</a></li>                              
