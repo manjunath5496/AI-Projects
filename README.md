@@ -624,7 +624,7 @@
 <p align="left">a collection of The University of Montreal&rsquo;s LISA Lab deep learning tutorials.&nbsp;</p>
 <p align="left">47.)&nbsp;<strong><a href="https://github.com/hughperkins/DeepCL">DeepCL</a></strong></p>
 <p align="left">OpenCL library to train deep convolutional neural networks.</p>
-<p align="left">48.)&nbsp;<strong><a href="https://github.com/AKSHAYUBHAT/VisualSearchServer">Visual Search Server</a></strong></p>
+<p align="left">48.)&nbsp;<strong><a href="https://github.com/dotnet/machinelearning">ML.NET</a></strong></p>
 <p align="left">Visual Search using Tensorflow inception model &amp; Approximate Nearest Neighbors.</p>
 <p align="left">49.)&nbsp;<strong><a href="https://github.com/beniz/deepdetect">Deep Detect</a></strong></p>
 <p align="left">Deep Learning API and Server in C++11 with Python bindings and support for Caffe.</p>
