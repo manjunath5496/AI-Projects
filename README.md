@@ -335,7 +335,7 @@
 <li class="toclevel-1 tocsection-2"><a href="#list1"><span class="toctext">Top 50 Awesome Deep Learning Projects</span></a></li>
 <li class="toclevel-1 tocsection-1"><a href="#list2">Top 35 Machine Learning Projects</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#list3"><span class="toctext">6 Open-Source Projects to Become Future-Ready Data Scientist</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#list4"><span class="toctext">6 Challenging Open Source Data Science Projects to Make you a Better Data Scientist</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
@@ -717,6 +717,15 @@
 <li><a href="https://github.com/alan-turing-institute/sktime" target="_blank" rel="noopener noreferrer">Sktime &ndash; Sklearn for time-series</a></li>
 </ul>
 
-
+</br>
+<h2 id ="list4" class="entry-title">6 Challenging Open Source Data Science Projects to Make you a Better Data Scientist</h2>
+<ul>
+<li><a href="https://github.com/NVIDIAGameWorks/kaolin" target="_blank" rel="noopener noreferrer">Kaolin &ndash; PyTorch Library for Accelerating 3D Deep Learning Research</a></li>
+<li><a href="https://github.com/alirezadir/Production-Level-Deep-Learning" target="_blank" rel="noopener noreferrer">Production-Level Deep Learning</a></li>
+<li><a href="https://github.com/sniklaus/3d-ken-burns" target="_blank" rel="noopener noreferrer">3D Ken Burns Implementation using PyTorch</a></li>
+<li><a href="https://github.com/Tencent/plato" target="_blank" rel="noopener noreferrer">Plato &ndash; Tencent&rsquo;s Graph Computing Framework</a></li>
+<li><a href="https://github.com/huggingface/transformers/releases/tag/v2.2.0" target="_blank" rel="noopener noreferrer">Transformers v2.2 &ndash; with 4 New NLP Models!</a></li>
+<li><a href="https://github.com/fchollet/ARC" target="_blank" rel="noopener noreferrer">ARC &ndash; Abstraction and Reasoning Corpus (AI Benchmark)</a></li>
+</ul>
 
 
