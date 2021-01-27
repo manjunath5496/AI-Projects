@@ -1285,7 +1285,7 @@ for Large Scale Dynamic Programming</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(41).pdf" style="text-decoration:none;">Insights in reinforcement learning: formal analysis and empirical evaluation of temporal-difference learning algorithms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(42).pdf" style="text-decoration:none;">A Bioreactor Benchmark for Adaptive Network-based Process Control</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(43).pdf" style="text-decoration:none;">True Online Temporal-Dierence Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(43).pdf" style="text-decoration:none;">True Online Temporal-Difference Learning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(44).pdf" style="text-decoration:none;">Reinforcement Learning Applied to
 Linear Quadratic Regulation</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(45).pdf" style="text-decoration:none;">Policy Evaluation with Temporal Differences:
