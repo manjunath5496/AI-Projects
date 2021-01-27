@@ -336,7 +336,7 @@
 <li class="toclevel-1 tocsection-1"><a href="#list2">Top 35 Machine Learning Projects</a></li>
 <li class="toclevel-1 tocsection-2"><a href="#list3"><span class="toctext">6 Open-Source Projects to Become Future-Ready Data Scientist</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#list4"><span class="toctext">6 Challenging Open Source Data Science Projects to Make you a Better Data Scientist</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
+<li class="toclevel-1 tocsection-6"><a href="#list5">15 Best Data Science GitHub Repositories</a></li>
 <li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
