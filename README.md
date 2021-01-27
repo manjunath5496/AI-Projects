@@ -827,93 +827,105 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(1).pdf" style="text-decoration:none;">500 Lines or Less: Experienced Programmers Solve Interesting Problems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(1).pdf" style="text-decoration:none;">Apprenticeship Learning via Inverse Reinforcement Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(2).pdf" style="text-decoration:none;">Brief Introduction to Educational Implications of Artificial Intelligence</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(2).pdf" style="text-decoration:none;">
+Expected-Outcome: A General Model of Static Evaluation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(3).pdf" style="text-decoration:none;">Algorithms and Data Structures: With Applications to Graphics and Geometry</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(4).pdf" style="text-decoration:none;">Algorithms</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(5).pdf" style="text-decoration:none;">Applied Data Science</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(6).pdf" style="text-decoration:none;">Artificial Intelligence through Prolog</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(7).pdf" style="text-decoration:none;">Basics of Modelling and Visualization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(3).pdf" style="text-decoration:none;">Variations in the sensitivity of instrumental responding to reinforcer devaluation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(4).pdf" style="text-decoration:none;">Instrumental responding following reinforcer
+devaluation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(5).pdf" style="text-decoration:none;">Computational Psychiatry: towards a mathematically informed understanding of mental illness</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(6).pdf" style="text-decoration:none;">Sample Mean Based Index Policies with O(log n) Regret for the Multi-Armed Bandit Problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(7).pdf" style="text-decoration:none;">The Dynamic Structure of Everyday Life</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(8).pdf" style="text-decoration:none;"> Fundamentals of Computer Vision </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(8).pdf" style="text-decoration:none;"> What Are Plans for? </a></li>
   
 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(9).pdf" style="text-decoration:none;">CS 473: Algorithms</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(10).pdf" style="text-decoration:none;">Foundations of Data Science</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(10).pdf" style="text-decoration:none;">A Theory of Cerebellar Function</a></li>                              
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(11).pdf" style="text-decoration:none;">Introduction to Autonomous Robots</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(12).pdf" style="text-decoration:none;">Global Optimization Algorithms – Theory and Application</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(13).pdf" style="text-decoration:none;">Clever Algorithms: Nature-Inspired Programming Recipes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(11).pdf" style="text-decoration:none;">Natural Gradient Works Efficiently in Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(12).pdf" style="text-decoration:none;">Design Improvements in Associative Memories for Cerebellar Model Articulation Controllers (CMAC)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(13).pdf" style="text-decoration:none;">Learning and Problem Solving with Multilayer Connectionist Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(14).pdf" style="text-decoration:none;">Combinatorial Optimization: Exact and Approximate Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(14).pdf" style="text-decoration:none;">Learning to control an inverted pendulum using neural networks</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(15).pdf" style="text-decoration:none;">Elementary Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(15).pdf" style="text-decoration:none;">Strategy Learning with Multilayer Connectionist Representations</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(16).pdf" style="text-decoration:none;">Introduction to Computing: Explorations in Language, Logic, and Machines</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(16).pdf" style="text-decoration:none;">Distinctive Features, Categorical Perception, and Probability Learning: Some Applications of a Neural Model</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(17).pdf" style="text-decoration:none;">A First Encounter with Machine Learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(17).pdf" style="text-decoration:none;">STELLA: A Scheme for a Learning Machine</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(18).pdf" style="text-decoration:none;">Statistical inference for data science: A companion to the Coursera Statistical Inference Course</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(18).pdf" style="text-decoration:none;">A Model of How the Brain Learns</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(19).pdf" style="text-decoration:none;">Python Machine Learning Projects</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(19).pdf" style="text-decoration:none;">Working Memory for the
+Associative Learning of Language</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(20).pdf" style="text-decoration:none;">A Field Guide to Genetic Programming</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(20).pdf" style="text-decoration:none;">A Learning Machine With Monologue</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(21).pdf" style="text-decoration:none;">Problem Solving with Algorithms and Data Structures</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(22).pdf" style="text-decoration:none;">Python for Everybody: Exploring Data Using Python 3</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(23).pdf" style="text-decoration:none;">Think Complexity</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(21).pdf" style="text-decoration:none;">Designing Economic Agents that Act like Human Agents: A Behavioral Approach to Bounded Rationality</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(22).pdf" style="text-decoration:none;">Mean Actor Critic</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(23).pdf" style="text-decoration:none;">Memory-Based Approaches to Approximating Continuous Functions</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(24).pdf" style="text-decoration:none;">A Genetic Algorithm Tutorial</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(24).pdf" style="text-decoration:none;">Locally Weighted Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(25).pdf" style="text-decoration:none;">Exploiting the Matching Information in the Support Set for Few Shot Event Classification</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(25).pdf" style="text-decoration:none;">Finite-time Analysis of the Multiarmed Bandit
+Problem</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(26).pdf" style="text-decoration:none;">The Option-Critic Architecture</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(27).pdf" style="text-decoration:none;">Residual Algorithms: Reinforcement Learning with Function Approximation</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(28).pdf" style="text-decoration:none;">Reinforcement Learning
+Through Gradient Descent</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(29).pdf" style="text-decoration:none;">Reinforcement Learning with High-Dimensional, Continuous Actions </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(30).pdf" style="text-decoration:none;">Gradient Descent for General
+Reinforcement Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(31).pdf" style="text-decoration:none;">Counterfactual Probabilities: Computational Methods, Bounds and Applications</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(32).pdf" style="text-decoration:none;">Reinforcement Learning, Spike Time
+Dependent Plasticity and the BCM Rule</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(33).pdf" style="text-decoration:none;">Temporal-Difference Methods and Markov Models</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(34).pdf" style="text-decoration:none;">Reinforcement Learning using Kernel-Based
+Stochastic Factorization</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(35).pdf" style="text-decoration:none;">Hebbian synaptic modifications in spiking neurons that learn</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(36).pdf" style="text-decoration:none;">A Biologically Plausible and Locally Optimal
+Learning Algorithm for Spiking Neurons</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(37).pdf" style="text-decoration:none;">Learning by statistical cooperation of self-interested neuron-like computing elements</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(38).pdf" style="text-decoration:none;">Game-theoretic cooperativity in
+networks of self-interested units</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(39).pdf" style="text-decoration:none;">From Chemotaxis to cooperativity: abstract exercises in neuronal learning strategies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(40).pdf" style="text-decoration:none;">Some Learning Tasks from a Control Perspective</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(41).pdf" style="text-decoration:none;">Adaptive Critics and the Basal Ganglia</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(42).pdf" style="text-decoration:none;">Reinforcement Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(43).pdf" style="text-decoration:none;">Intrinsic Motivation and Reinforcement Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(44).pdf" style="text-decoration:none;">Pattern-recognizing stochastic learning automata</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(45).pdf" style="text-decoration:none;">Structural learning in connectionist systems</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(46).pdf" style="text-decoration:none;">Monte Carlo Matrix Inversion and
+Reinforcement Learning</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(47).pdf" style="text-decoration:none;">Recent Advances in Hierarchical Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(48).pdf" style="text-decoration:none;">The role of learning in motivation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(49).pdf" style="text-decoration:none;">The Role of the Critic in Learning Systems</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(50).pdf" style="text-decoration:none;">Explanation-Based Learning and Reinforcement
+Learning: A Unified View</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
 
