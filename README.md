@@ -1197,5 +1197,375 @@ A Survey</a></li>
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(178).pdf" style="text-decoration:none;">On Actor-Critic Algorithms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(179).pdf" style="text-decoration:none;">Value Function Approximation in Reinforcement Learning using the Fourier Basis</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(1).pdf" style="text-decoration:none;">500 Lines or Less: Experienced Programmers Solve Interesting Problems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(2).pdf" style="text-decoration:none;">Computation: Finite and Infinite Machines</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(3).pdf" style="text-decoration:none;">Goal Seeking Components for Adaptive Intelligence: An Initial Assessment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(4).pdf" style="text-decoration:none;">On integrating apprentice learning and reinforcement learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(5).pdf" style="text-decoration:none;">A Colony
+Architecture for an Artificial Creature</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(6).pdf" style="text-decoration:none;">A Theory of Pavlovian Conditioning:
+Variations in the Effectiveness of Reinforcement and Nonreinforcement</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(7).pdf" style="text-decoration:none;">Introduction to
+Stochastic Dynamic Programming</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(8).pdf" style="text-decoration:none;"> Investigating Practical Linear Temporal Difference Learning </a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(9).pdf" style="text-decoration:none;">A Survey of Some Results in Stochastic Adaptive Control</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(10).pdf" style="text-decoration:none;">Stochastic Systems:
+Estimation, Identification, and Adaptive Control</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(11).pdf" style="text-decoration:none;">Multivariable Functional Interpolation and Adaptive Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(12).pdf" style="text-decoration:none;">Affective neuroscience of pleasure: reward in humans and animals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(13).pdf" style="text-decoration:none;">A new Q(lambda) with interim forward view and Monte Carlo equivalence</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(14).pdf" style="text-decoration:none;">Bandit Problems: Sequential
+Allocation of Experiments (Monographs on Statistics and Applied Probability)</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(15).pdf" style="text-decoration:none;">Optimal Path-Finding Algorithms</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(16).pdf" style="text-decoration:none;">Writing Memories with Light-Addressable Reinforcement Circuitry</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(17).pdf" style="text-decoration:none;">An Emphatic Approach to the Problem
+of Off-policy Temporal-Difference Learning</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(18).pdf" style="text-decoration:none;">Building and Understanding Adaptive Systems:
+A Statistical/Numerical Approach to Factory Automation and Brain Research</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(19).pdf" style="text-decoration:none;">Learning to act using real-time dynamic
+programming</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(20).pdf" style="text-decoration:none;">Learning from Delayed Rewards</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(21).pdf" style="text-decoration:none;">The misbehavior of organisms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(22).pdf" style="text-decoration:none;">Learning theory support for a single channel theory of the brain</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(23).pdf" style="text-decoration:none;">Causal diagrams for empirical research (with discussions) </a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(24).pdf" style="text-decoration:none;">Developing a predictive approach to knowledge</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(25).pdf" style="text-decoration:none;">Neuronlike Adaptive Elements That Can Solve
+Difficult Learning Control Problems</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(26).pdf" style="text-decoration:none;">Least-Squares Policy Iteration</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(27).pdf" style="text-decoration:none;">A Distributional Perspective on Reinforcement Learning</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(28).pdf" style="text-decoration:none;">Adaptive Step-sizes For
+Reinforcement Learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(29).pdf" style="text-decoration:none;">A Survey of Monte Carlo Tree Search Methods </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(30).pdf" style="text-decoration:none;">Punish/Reward: Learning with a Critic in
+Adaptive Threshold Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(31).pdf" style="text-decoration:none;">Natural actor-critic algorithms</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(32).pdf" style="text-decoration:none;">Toward a modern theory of adaptive networks: expectation and prediction</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(33).pdf" style="text-decoration:none;">The Learning Algorithm</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(34).pdf" style="text-decoration:none;">Gradient Temporal-Difference Learning Algorithms</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(35).pdf" style="text-decoration:none;">Signature Table Systems and Learning</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(36).pdf" style="text-decoration:none;">The CDP: A unifying formulation for heuristic search, dynamic programming, and branch-and-bound</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(37).pdf" style="text-decoration:none;">A Unified Theory Of Expectation In Classical And Instrumental Conditioning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(38).pdf" style="text-decoration:none;">A Problem in the Sequential Design of Experiments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(39).pdf" style="text-decoration:none;">Generalization of Backpropagation with Application to a Recurrent Gas Market Model</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(40).pdf" style="text-decoration:none;">Feature-Based Methods
+for Large Scale Dynamic Programming</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(41).pdf" style="text-decoration:none;">Insights in reinforcement learning: formal analysis and empirical evaluation of temporal-difference learning algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(42).pdf" style="text-decoration:none;">A Bioreactor Benchmark for Adaptive Network-based Process Control</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(43).pdf" style="text-decoration:none;">True Online Temporal-Dierence Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(44).pdf" style="text-decoration:none;">Reinforcement Learning Applied to
+Linear Quadratic Regulation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(45).pdf" style="text-decoration:none;">Policy Evaluation with Temporal Differences:
+A Survey and Comparison</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(46).pdf" style="text-decoration:none;">Dynamic Programming
+and Optimal Control: Volume I</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(47).pdf" style="text-decoration:none;">Functional Imaging of Neural Responses
+to Expectancy and Experience of Monetary Gains and Losses tasks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(48).pdf" style="text-decoration:none;">Training Stochastic Model Recognition
+Algorithms as Networks can lead to Maximum Mutual Information Estimation of Parameters</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(49).pdf" style="text-decoration:none;">Off-Policy Actor-Critic</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(50).pdf" style="text-decoration:none;">Problem Solving With Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(51).pdf" style="text-decoration:none;">Generalization in Reinforcement
+Learning: Successful Examples Using Sparse Coarse Coding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(52).pdf" style="text-decoration:none;">A Pallidus-Habenula-Dopamine Pathway Signals Inferred Stimulus Values</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(53).pdf" style="text-decoration:none;">Incremental Dynamic Programming for On-Line Adaptive Optimal Control</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(54).pdf" style="text-decoration:none;">Unsupervised Feature Learning and Deep
+Learning: A Review and New Perspectives </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(55).pdf" style="text-decoration:none;">An optimal one-way multigrid algorithm for discrete-time stochastic control</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(56).pdf" style="text-decoration:none;">Optimal control-1950 to 1985</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(57).pdf" style="text-decoration:none;">Contraction Mappings in the Theory Underlying Dynamic Programming</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(58).pdf" style="text-decoration:none;">On the Computational Economics of Reinforcement Learning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(59).pdf" style="text-decoration:none;">Variations on the
+Boltzmann Machine Learning Algorithm</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(60).pdf" style="text-decoration:none;">Real-Time Heuristic Search </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(61).pdf" style="text-decoration:none;"> Learning and Sequential Decision Making</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(62).pdf" style="text-decoration:none;">Experiments on the mechanization of game-learning: Part I. Characterization of the model and its parameters</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(63).pdf" style="text-decoration:none;">Linear Least-Squares Algorithms for Temporal
+Difference Learning</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(64).pdf" style="text-decoration:none;">Importance Sampling for
+Reinforcement Learning with Multiple Objectives</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(65).pdf" style="text-decoration:none;">On Convergence of some Gradient-based Temporal-Differences Algorithms for Off-Policy Learning </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
+Argument-Aware Pooling for Event Detection</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(71).pdf" style="text-decoration:none;">A Novel Feature Selection Strategy for Enhanced Biomedical Event Extraction Using the Turku System</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(72).pdf" style="text-decoration:none;">Predicting Unknown Time Arguments
+based on Cross-Event Propagation</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(73).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution with Rich Linguistic Features</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(74).pdf" style="text-decoration:none;">Event Specific Multimodal Pattern Mining for Knowledge Base Construction</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(75).pdf" style="text-decoration:none;">Joint Event Extraction Based on Hierarchical Event Schemas From FrameNet</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
+Information Extraction from Semi-Structured and Free Text</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(102).pdf" style="text-decoration:none;">Identifying civilians killed by police with distantly supervised entity-event extraction</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(103).pdf" style="text-decoration:none;">Exploiting Contextual Information via Dynamic Memory Network for Event Detection</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(104).pdf" style="text-decoration:none;">Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(107).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Relation and Event Extraction</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(108).pdf" style="text-decoration:none;">Event Detection with Trigger-Aware Lattice Neural Network</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(110).pdf" style="text-decoration:none;">Neural Cross-Lingual Event Detection with Minimal Parallel Resources </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(111).pdf" style="text-decoration:none;">Event Detection with Multi-Order Graph Convolution and Aggregated Attention</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(112).pdf" style="text-decoration:none;">HMEAE: Hierarchical Modular Event Argument Extraction</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(120).pdf" style="text-decoration:none;">Event Coreference Resolution using Mincut based Graph Clustering</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(121).pdf" style="text-decoration:none;">On Semantics and Deep Learning for Event Detection in Crisis Situations</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(122).pdf" style="text-decoration:none;">Chinese Event Extraction Based on Attention and Semantic Features: A Bidirectional Circular Neural Network</a></li>  
+     
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(123).pdf" style="text-decoration:none;">A Unified Event Coreference Resolution by Integrating Multiple Resolvers</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(124).pdf" style="text-decoration:none;">Using Prediction from Sentential Scope to Build a Pseudo Co-Testing Learner for Event Extraction</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(125).pdf" style="text-decoration:none;">Exploiting Document Level Information to Improve Event Detection via Recurrent Neural Networks</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(126).pdf" style="text-decoration:none;">
+Semi-Automatic Financial Events Discovery Based on Lexico-Semantic Patterns</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(127).pdf" style="text-decoration:none;">Unsupervised Event Coreference Resolution</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(128).pdf" style="text-decoration:none;">Temporal Ontology and Temporal Reference</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(129).pdf" style="text-decoration:none;">Four thousand ships passed through the lock: Object-induced measure functions on events</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(130).pdf" style="text-decoration:none;">Event Coreference Resolution with Multi-Pass Sieves </a></li>    
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(131).pdf" style="text-decoration:none;">Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(132).pdf" style="text-decoration:none;">Event Detection via Gated Multilingual Attention Mechanism</a></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(133).pdf" style="text-decoration:none;">A Survey of Textual Event Extraction from Social Networks</a></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(134).pdf" style="text-decoration:none;">Events, Processes, and States</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(135).pdf" style="text-decoration:none;">Chinese Event Coreference Resolution: An Unsupervised Probabilistic Model Rivaling Supervised Resolvers</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(136).pdf" style="text-decoration:none;">Joint Extraction of Events and Entities within a Document Context</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(137).pdf" style="text-decoration:none;">Joint Event Extraction via Recurrent Neural Networks</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(138).pdf" style="text-decoration:none;">Cross-media Event Extraction and Recommendation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(139).pdf" style="text-decoration:none;">Semi-Supervised Event Extraction with Paraphrase Clusters</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(140).pdf" style="text-decoration:none;">Adversarial Training forWeakly Supervised Event Detection</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(141).pdf" style="text-decoration:none;"> Biomedical Event Extraction Based on Knowledge-driven Tree-LSTM</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(142).pdf" style="text-decoration:none;">Multilingual Entity, Relation, Event and Human Value Extraction</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(143).pdf" style="text-decoration:none;">Learning to Select Important Context Words for Event Detection</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(144).pdf" style="text-decoration:none;">Nonparametric Bayesian Models for Unsupervised Event Coreference Resolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(145).pdf" style="text-decoration:none;">5W1H Information Extraction with CNN-Bidirectional LSTM</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(146).pdf" style="text-decoration:none;">An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(147).pdf" style="text-decoration:none;">Refining Event Extraction through Cross-document Inference</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(148).pdf" style="text-decoration:none;">Using Document Level Cross-Event Inference to Improve Event Extraction</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(149).pdf" style="text-decoration:none;">Event Discovery in Social Media Feeds</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(150).pdf" style="text-decoration:none;">Using Cross-Entity Inference to Improve Event Extraction</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(151).pdf" style="text-decoration:none;">Event Extraction as Dependency Parsing </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(152).pdf" style="text-decoration:none;">Can Document Selection Help Semi-supervised Learning? A Case Study On Event Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(153).pdf" style="text-decoration:none;">Automatic Event Extraction with Structured Preference Modeling</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(154).pdf" style="text-decoration:none;">Joint Event Extraction via Structured Prediction with Global Features</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(155).pdf" style="text-decoration:none;">Argument Inference from Relevant Event Mentions in Chinese Argument Extraction</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(156).pdf" style="text-decoration:none;">A Structured Distributional Semantic Model for Event Co-reference</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(157).pdf" style="text-decoration:none;">Modelling Events through Memory-based, Open-IE Patterns for Abstractive Summarization</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(158).pdf" style="text-decoration:none;">Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation, Context, and Association Features</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(159).pdf" style="text-decoration:none;">Cross-narrative temporal ordering of medical events </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(160).pdf" style="text-decoration:none;">An Annotation Framework for Dense Event Ordering</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(161).pdf" style="text-decoration:none;">A Simple Bayesian Modelling Approach to Event Extraction from Twitter</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(162).pdf" style="text-decoration:none;">Bilingual Event Extraction: a Case Study on Trigger Type Determination</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(163).pdf" style="text-decoration:none;">Real-Time Detection, Tracking, and Monitoring of Automatically Discovered Events in Social Media</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(164).pdf" style="text-decoration:none;">Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(165).pdf" style="text-decoration:none;">Generative Event Schema Induction with Entity Disambiguation</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(166).pdf" style="text-decoration:none;">Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(167).pdf" style="text-decoration:none;">Event Detection and Domain Adaptation with Convolutional Neural Networks</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(168).pdf" style="text-decoration:none;">Seed-Based Event Trigger Labeling:
+How far can event descriptions get us?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(169).pdf" style="text-decoration:none;">Disease Event Detection based on Deep Modality Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(170).pdf" style="text-decoration:none;">A Domain-independent Rule-based Framework for Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(171).pdf" style="text-decoration:none;">Storybase: Towards Building a Knowledge Base for News Events</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(172).pdf" style="text-decoration:none;">Liberal Event Extraction and Event Schema Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(173).pdf" style="text-decoration:none;">Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(175).pdf" style="text-decoration:none;">Leveraging FrameNet to Improve Automatic Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(176).pdf" style="text-decoration:none;">Temporal Anchoring of Events for the TimeBank Corpus</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(177).pdf" style="text-decoration:none;">A Language-Independent Neural Network for Event Detection</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(178).pdf" style="text-decoration:none;">Event Nugget Detection with Forward-Backward Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(179).pdf" style="text-decoration:none;">Identifying Potential Adverse Drug Events in Tweets Using Bootstrapped Lexicons</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(180).pdf" style="text-decoration:none;">Joint Learning for Event Coreference Resolution</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(181).pdf" style="text-decoration:none;">Automatically Labeled Data Generation for Large Scale Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(182).pdf" style="text-decoration:none;">Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(183).pdf" style="text-decoration:none;">English Event DetectionWith Translated Language Features</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(184).pdf" style="text-decoration:none;">Determining Whether and When People Participate in the Events They Tweet About</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(185).pdf" style="text-decoration:none;">Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(186).pdf" style="text-decoration:none;">Nugget Proposal Networks for Chinese Event Detection</a></li>
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(187).pdf" style="text-decoration:none;">Zero-Shot Transfer Learning for Event Extraction</a></li>
+                             
+
+
+
+
+
 </ul>
 
