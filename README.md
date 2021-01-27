@@ -766,4 +766,5 @@
 <li><a href="https://github.com/zllrunning/video-object-removal" target="_blank" rel="noopener noreferrer">Video Object Removal</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Computer_vision">Computer Vision</a>)</li>
 <li><a href="https://github.com/vpj/python_autocomplete" target="_blank" rel="noopener noreferrer">Python Autocomplete</a>&nbsp;(Programming)</li>
 <li><a href="https://github.com/BlackHC/tfpyth" target="_blank" rel="noopener noreferrer">tfpyth &ndash; TensorFlow to PyTorch to TensorFlow</a>&nbsp;(Programming)</li>
+<li><a href="https://github.com/Tencent/MedicalNet" target="_blank" rel="noopener noreferrer">MedicalNet</a></li>
 </ul>
