@@ -325,6 +325,35 @@
 </tbody>
 </table>
 </br>
+
+<div class="toctitle" dir="ltr" lang="en">
+<h2>Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-15"><a href="#firstHeading">List of artificial intelligence projects</a></li>
+<li class="toclevel-1 tocsection-7"><a href="#list"><span class="toctext">Best 59 Artificial Intelligence Projects For Beginners</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#list1"><span class="toctext">Top 50 Awesome Deep Learning Projects</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#timeline">Timeline of Artificial Intelligence</a></li>
+<li class="toclevel-1 tocsection-2"><a href="#firstHeading"><span class="toctext">Glossary of Artificial Intelligence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
+<li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
+<li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
+<li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
+<li class="toclevel-1 tocsection-9"><a href="#philosophy"> Philosophy Of Artificial Intelligence</a></li>
+<li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
+<li class="toclevel-1 tocsection-16"><a href="#view"> Perspectives On AI</a></li>
+<li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
+<li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
+<li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
+<li class="toclevel-1 tocsection-19"><a href="#future"> AI and the Future</a></li>
+<li class="toclevel-1 tocsection-20"><a href="#psychology"> Psychology and AI</a></li>
+<li class="toclevel-1 tocsection-21"><a href="#tools"> Open-source AI Development Tools</a></li>
+</ul>
+
+
+
+</br>
 <h2 id="firstHeading" class="firstHeading" lang="en">List of artificial intelligence projects</h2>
 <h3><span id="Brain-inspired" class="mw-headline">Brain-inspired</span></h3>
 <ul>
@@ -442,7 +471,7 @@
 </ul>
 <p>&nbsp;</p>
 
-<h2>Best 59 Artificial Intelligence Projects For Beginners</h2>
+<h2 id="list">Best 59 Artificial Intelligence Projects For Beginners</h2>
 <ol>
 <li><a href="https://github.com/aimacode/aima-python"><strong>aimacode/aima-python</strong></a>&nbsp; python execution of algorithms from russell and norvig&rsquo;s &ldquo;computerized reasoning &ndash; a cutting edge approach&rdquo;</li>
 <li><a href="https://github.com/ryanb/ruby-warrior"><u><strong>ryanb/ruby-warrior</strong></u></a>&nbsp; A game written in ruby language for learning ruby &amp; AI.</li>
@@ -505,7 +534,7 @@
 <li><a href="https://github.com/nfraenkel/cis521"><strong>nfraenkel/cis521</strong></a>&nbsp;intro to artificial intelligence</li>
 </ol>
 </br>
-<h2 class="entry-title">Top 50 Awesome Deep Learning Projects</h2>
+<h2 id="list1" class="entry-title">Top 50 Awesome Deep Learning Projects</h2>
 <p align="left">1.)&nbsp;<strong><a href="https://github.com/aymericdamien/TensorFlow-Examples">TensorFlow</a></strong></p>
 <p align="left">TensorFlow tutorials and code examples for beginners.</p>
 <p align="left">2.)&nbsp;<strong><a href="https://github.com/tensorflow/models">TensorFlow Models</a></strong></p>
