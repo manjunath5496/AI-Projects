@@ -754,3 +754,8 @@
 </ul>
 </li>
 </ol>
+<hr>
+<ul>
+<li><a href="https://github.com/manjunath5496/AI-Projects/blob/main/2.pdf">AI Cheatsheet</a></li>
+</ul>
+<hr>
