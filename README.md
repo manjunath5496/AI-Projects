@@ -728,19 +728,19 @@
 <li><a href="https://github.com/fchollet/ARC" target="_blank" rel="noopener noreferrer">ARC &ndash; Abstraction and Reasoning Corpus (AI Benchmark)</a></li>
 </ul>
 </br>
-<h2 id="list5" class="entry-title">15 Best Data Science GitHub Repositories</h2>
+<h2 id="list5" class="entry-title">15&nbsp;Best Data Science GitHub Repositories</h2>
 <ol>
 <li><strong>Repositories for Learning Resources</strong>
-<ol>
+<ul>
 <li><a href="https://github.com/bulutyazilim/awesome-datascience">Awesome Data Science</a></li>
 <li><a href="https://github.com/kailashahirwar/cheatsheets-ai">Machine Learning / Deep Learning Cheat Sheet</a></li>
 <li><a href="https://github.com/oxford-cs-deepnlp-2017/lectures">Oxford Deep Natural Language Processing Course Lectures</a></li>
 <li><a href="https://github.com/yunjey/pytorch-tutorial">PyTorch &ndash; Tutorial</a></li>
 <li><a href="https://github.com/hindupuravinash/nips2017">Resources of NIPS 2017</a></li>
-</ol>
+</ul>
 </li>
 <li><strong>Open Source Softwares</strong>
-<ol>
+<ul>
 <li><a href="https://github.com/tensorflow/tensorflow">TensorFlow</a></li>
 <li><a href="https://github.com/apple/turicreate">TuriCreate &ndash; A Simplified Machine Learning Library</a></li>
 <li><a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose">OpenPose</a></li>
@@ -751,7 +751,6 @@
 <li><a href="https://github.com/junyanz/CycleGAN">CycleGAN</a></li>
 <li><a href="https://github.com/google/seq2seq">Seq2seq</a></li>
 <li><a href="https://github.com/tonybeltramelli/pix2code">Pix2code</a></li>
-</ol>
+</ul>
 </li>
 </ol>
-
