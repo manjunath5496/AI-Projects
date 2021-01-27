@@ -631,3 +631,116 @@
 <p align="left">Deep Learning API and Server in C++11 with Python bindings and support for Caffe.</p>
 <p align="left">50.)&nbsp;<strong><a href="https://github.com/karpathy/neuraltalk2">Neural Talk 2</a></strong></p>
 <p align="left">Efficient Image Captioning code in Torch, runs on GPU.</p>
+</br>
+<h2 id ="list2" class="entry-title">TOP 35 Machine Learning Projects</h2>
+<h3><strong>1.)&nbsp;</strong><strong><a href="https://github.com/airbnb/aerosolve">Aerosolve</a></strong></h3>
+<p>A machine learning package built for humans.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>2.)&nbsp;</strong><a href="https://github.com/scikit-learn/scikit-learn"><strong>Scikit-learn</strong></a></h3>
+<p><a href="https://en.wikipedia.org/wiki/Scikit-learn"><strong>Scikit-learn</strong></a>&nbsp;leverages the Python scientific computing stack, built on NumPy, SciPy, and matplotlib. As general purpose a toolkit as there could be, Scikit-learn contains classification, regression, and clustering algorithms, as well as data-preparation and model-evaluation tools.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>3.)&nbsp;</strong><a href="https://github.com/tensorflow/tensorflow"><strong>tensorflow /&nbsp;tensorflow</strong></a></h3>
+<p>&nbsp;Computation using data flow graphs for scalable machine learning.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>4.)&nbsp;</strong><a href="https://github.com/Theano/Theano"><strong>Theano /&nbsp;Theano</strong></a></h3>
+<p>&nbsp;</p>
+<p>Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic.</p>
+<p>&nbsp;</p>
+<p><strong>5.)&nbsp;</strong><strong><a href="https://github.com/PredictionIO/PredictionIO">PredictionIO</a></strong></p>
+<p>PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>6.)&nbsp;</strong><a href="https://github.com/shogun-toolbox/shogun"><strong>shogun-toolbox /&nbsp;shogun</strong></a></h3>
+<p>&nbsp;</p>
+<p>&nbsp; The Shogun Machine Learning Toolbox (Source Code)</p>
+<p>&nbsp;</p>
+<p><strong>7.)&nbsp;</strong><strong><a href="https://github.com/JohnLangford/vowpal_wabbit">Vowpal Wabbit</a></strong></p>
+<p>Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>8.)&nbsp;</strong><a href="https://github.com/davisking/dlib"><strong>davisking /&nbsp;dlib</strong></a></h3>
+<p>&nbsp;A toolkit for making real world machine learning and data analysis applications in C++.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>9.)&nbsp;</strong><a href="https://github.com/apache/incubator-predictionio"><strong>apache /&nbsp;incubator-predictionio</strong></a></h3>
+<p>&nbsp;PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.</p>
+<p>&nbsp;</p>
+<p><strong>10.)&nbsp;</strong><strong><a href="https://github.com/clips/pattern">Pattern</a></strong></p>
+<p>Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>10.)&nbsp;</strong><a href="https://github.com/gokceneraslan/awesome-deepbio"><strong>gokceneraslan /&nbsp;awesome-deepbio</strong></a></h3>
+<p>&nbsp;A curated list of awesome deep learning applications in the field of computational biology</p>
+<h3 class="western">&nbsp;</h3>
+<h3 class="western"><strong>11.)&nbsp;</strong><a href="https://github.com/buriburisuri/ByteNet"><strong>buriburisuri /&nbsp;ByteNet</strong></a></h3>
+<p>&nbsp;A tensorflow implementation of French-to-English machine translation using DeepMind&rsquo;s ByteNet .</p>
+<p>&nbsp;</p>
+<p><strong>12.)&nbsp;</strong><strong><a href="https://github.com/sjwhitworth/golearn">GoLearn</a></strong></p>
+<p>Machine Learning for Go.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>13.)&nbsp;</strong><a href="https://github.com/josephmisiti/awesome-machine-learning"><strong>josephmisiti /&nbsp;awesome-machine-learning</strong></a></h3>
+<p>&nbsp;A curated list of awesome Machine Learning frameworks, libraries and software.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>14.)&nbsp;</strong><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials"><strong>ujjwalkarn /&nbsp;Machine-Learning-Tutorials</strong></a></h3>
+<p>&nbsp;</p>
+<p>&nbsp;Machine learning and deep learning tutorials, articles and other resources.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>15.)&nbsp;</strong><a href="https://github.com/ChristosChristofidis/awesome-deep-learning"><u><strong>ChristosChristofidis /&nbsp;awesome-deep-learning</strong></u></a></h3>
+<p>&nbsp;A curated list of awesome Deep Learning tutorials, projects and communities.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>16.)&nbsp;</strong><a href="https://github.com/fastai/courses"><strong>fastai /&nbsp;courses</strong></a></h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; fast.ai Courses</p>
+<p>&nbsp;</p>
+<p><strong>17.)&nbsp;</strong><strong><a href="https://github.com/hangtwenty/dive-into-machine-learning">Dive Into Machine Learning</a></strong></p>
+<p>Dive into Machine Learning with Python Jupyter notebook and scikit-learn.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>18.)&nbsp;</strong><a href="https://github.com/jtoy/awesome-tensorflow"><strong>jtoy /&nbsp;awesome-tensorflow</strong></a></h3>
+<p>TensorFlow &ndash; A curated list of dedicated resources http://tensorflow.org</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>19.)&nbsp;</strong><a href="https://github.com/nlintz/TensorFlow-Tutorials"><strong>nlintz /&nbsp;TensorFlow-Tutorials</strong></a></h3>
+<p>&nbsp;Simple tutorials using Google&rsquo;s TensorFlow Framework.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>20.)&nbsp;</strong><a href="https://github.com/pkmital/tensorflow_tutorials"><strong>pkmital /&nbsp;tensorflow_tutorials</strong></a></h3>
+<p>From the basics to slightly more interesting applications of Tensorflow.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>21.)&nbsp;</strong><a href="https://github.com/GSA/data"><strong>GSA /&nbsp;data</strong></a></h3>
+<p>Assorted data from the General Services Administration.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>22.)&nbsp;</strong><a href="https://github.com/GoogleTrends/data"><strong>GoogleTrends /&nbsp;data</strong></a></h3>
+<p>&nbsp;An index of all open-source data</p>
+<p>&nbsp;</p>
+<p><strong>23.)&nbsp;</strong><strong><a href="https://github.com/numenta/nupic">NuPIC (Numenta Platform for Intelligent Computing)</a></strong></p>
+<p>A brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>24.)&nbsp;</strong><a href="https://github.com/nationalparkservice/data"><strong>nationalparkservice /&nbsp;data</strong></a></h3>
+<p>An unofficial repository of National Park Service data.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>25.)&nbsp;</strong><a href="https://github.com/fivethirtyeight/data"><strong>fivethirtyeight /&nbsp;data</strong></a></h3>
+<p>Data and code behind the stories and interactives at FiveThirtyEight.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>26.)&nbsp;</strong><a href="https://github.com/beamandrew/medical-data"><strong>beamandrew /&nbsp;medical-data</strong></a></h3>
+<p>Interesting links &amp; research papers related to medical.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>27.)&nbsp;</strong><a href="https://github.com/src-d/awesome-machine-learning-on-source-code"><strong>src-d /&nbsp;awesome-machine-learning-on-source-code</strong></a></h3>
+<p>Interesting links &amp; research papers related to Machine Learning applied to source code</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>28.)&nbsp;</strong><a href="https://github.com/igrigorik/decisiontree"><strong>igrigorik /&nbsp;decisiontree</strong></a></h3>
+<p>ID3-based implementation of the ML Decision Tree algorithm</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>29.)&nbsp;</strong><a href="https://github.com/keon/awesome-nlp"><strong>keon /&nbsp;awesome-nlp</strong></a></h3>
+<p>A curated list of resources dedicated to Natural Language Processing (NLP)</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>30.)&nbsp;</strong><a href="https://github.com/openai/gym"><strong>openai /&nbsp;gym</strong></a></h3>
+<p>A toolkit for developing and comparing reinforcement learning algorithms.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>31.)&nbsp;</strong><a href="https://github.com/aikorea/awesome-rl"><strong>aikorea /&nbsp;awesome-rl</strong></a></h3>
+<p>&nbsp;Reinforcement learning resources curated</p>
+<p>&nbsp;</p>
+<p><strong>32.)&nbsp;</strong><strong><a href="https://github.com/johnmyleswhite/ML_for_Hackers">Code for Machine Learning for Hackers</a></strong></p>
+<p>Code accompanying the book &ldquo;Machine Learning for Hackers.&rdquo;</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>33.)&nbsp;</strong><a href="https://github.com/umutisik/Eigentechno"><strong>umutisik /&nbsp;Eigentechno</strong></a></h3>
+<p>Principal Component Analysis on music loops.</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>34.)&nbsp;</strong><a href="https://github.com/jpmckinney/tf-idf-similarity"><strong>jpmckinney /&nbsp;tf-idf-similarity</strong></a></h3>
+<p>Ruby gem to calculate the similarity between texts using tf*idf</p>
+<p>&nbsp;</p>
+<h3 class="western"><strong>35.)&nbsp;</strong><a href="https://github.com/scikit-learn-contrib/lightning"><strong>scikit-learn-contrib /&nbsp;lightning</strong></a></h3>
+<p>Large-scale linear classification, regression and ranking in Python</p>
