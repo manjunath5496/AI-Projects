@@ -1170,31 +1170,31 @@ Reinforcement Learning</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(162).pdf" style="text-decoration:none;">Near-Optimal Reinforcement Learning
 in Polynomial Time</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(163).pdf" style="text-decoration:none;">A Tutorial Survey of Reinforcement Learning</a></li> 
-
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(164).pdf" style="text-decoration:none;">Experimental Animal Behaviour</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(164).pdf" style="text-decoration:none;">Experimental Animal Behaviour</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(165).pdf" style="text-decoration:none;">Temporal primacy overrides prior training in
 serial compound conditioning of the rabbit's nictitating membrane response</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(166).pdf" style="text-decoration:none;">Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(166).pdf" style="text-decoration:none;">Dopamine prediction errors in reward learning and addiction: from theory to neural circuitry</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(167).pdf" style="text-decoration:none;">Event Detection and Domain Adaptation with Convolutional Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(167).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(168).pdf" style="text-decoration:none;">Seed-Based Event Trigger Labeling:
-How far can event descriptions get us?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(169).pdf" style="text-decoration:none;">Disease Event Detection based on Deep Modality Analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(170).pdf" style="text-decoration:none;">A Domain-independent Rule-based Framework for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(171).pdf" style="text-decoration:none;">Storybase: Towards Building a Knowledge Base for News Events</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(172).pdf" style="text-decoration:none;">Liberal Event Extraction and Event Schema Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(173).pdf" style="text-decoration:none;">Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(168).pdf" style="text-decoration:none;">Brain Function and Adaptive Systems &minus;
+A Heterostatic Theory</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(169).pdf" style="text-decoration:none;">A Comparison of Natural and Artificial Intelligence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(170).pdf" style="text-decoration:none;">A neuronal model of classical conditioning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(171).pdf" style="text-decoration:none;">Empowerment: A Universal Agent-Centric Measure of Control</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(172).pdf" style="text-decoration:none;">Reinforcement Learning in Robotics:
+A Survey</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(173).pdf" style="text-decoration:none;">Bandit based Monte-Carlo Planning</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(175).pdf" style="text-decoration:none;">Leveraging FrameNet to Improve Automatic Event Detection</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(176).pdf" style="text-decoration:none;">Temporal Anchoring of Events for the TimeBank Corpus</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(175).pdf" style="text-decoration:none;">On the asymptotic equivalence between differential Hebbian and temporal difference learning using a local third factor</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(176).pdf" style="text-decoration:none;">The Fixed Points of Off-Policy TD</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(177).pdf" style="text-decoration:none;">A Language-Independent Neural Network for Event Detection</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(177).pdf" style="text-decoration:none;">Actor-Critic Algorithms</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(178).pdf" style="text-decoration:none;">Event Nugget Detection with Forward-Backward Recurrent Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(179).pdf" style="text-decoration:none;">Identifying Potential Adverse Drug Events in Tweets Using Bootstrapped Lexicons</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(178).pdf" style="text-decoration:none;">On Actor-Critic Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(179).pdf" style="text-decoration:none;">Value Function Approximation in Reinforcement Learning using the Fourier Basis</a></li>
 </ul>
 
