@@ -504,3 +504,101 @@
 <li><a href="https://github.com/moondroid/chatbot"><strong>moondroid/chatbot</strong></a>&nbsp;android chat experiment with an a.l.i.c.e. artificial intelligence.</li>
 <li><a href="https://github.com/nfraenkel/cis521"><strong>nfraenkel/cis521</strong></a>&nbsp;intro to artificial intelligence</li>
 </ol>
+</br>
+<h2 class="entry-title">Top 50 Awesome Deep Learning Projects</h2>
+<p align="left">1.)&nbsp;<strong><a href="https://github.com/aymericdamien/TensorFlow-Examples">TensorFlow</a></strong></p>
+<p align="left">TensorFlow tutorials and code examples for beginners.</p>
+<p align="left">2.)&nbsp;<strong><a href="https://github.com/tensorflow/models">TensorFlow Models</a></strong></p>
+<p align="left">Models built with TensorFlow</p>
+<p align="left">3.)&nbsp;<strong><a href="https://github.com/tensorflow/tensorflow">TensorFlow</a></strong></p>
+<p align="left">Computation using data flow graphs for scalable machine learning.</p>
+<p align="left">4.)&nbsp;<strong><a href="https://github.com/tensorflow/playground">TensorFlow Playground</a></strong></p>
+<p align="left">Play with neural networks.</p>
+<p align="left">5.)&nbsp;<strong><a href="https://github.com/pkmital/tensorflow_tutorials">TensorFlow Tutorials</a></strong></p>
+<p align="left">From the basics to slightly more interesting applications of Tensorflow.</p>
+<p align="left">6.)&nbsp;<strong><a href="https://github.com/tflearn/tflearn">TFLearn</a></strong></p>
+<p align="left">Deep learning library featuring a higher-level API for TensorFlow.</p>
+<p align="left">7.)&nbsp;<strong><a href="https://github.com/BVLC/caffe">Caffe</a></strong></p>
+<p align="left">A fast open framework for deep learning.</p>
+<p align="left">8.)&nbsp;<strong><a href="https://github.com/fchollet/keras">Keras</a></strong></p>
+<p align="left">Deep Learning library for Python. Runs on Theano and TensorFlow.</p>
+<p align="left">9.)&nbsp;<strong><a href="https://github.com/google/deepdream">Deep Dream</a></strong></p>
+<p align="left">Deep Dream.</p>
+<p align="left">10.)&nbsp;<strong><a href="https://github.com/jcjohnson/neural-style">Neural Style</a></strong></p>
+<p align="left">Torch implementation of neural style algorithm.</p>
+<p align="left">11.)&nbsp;<strong><a href="https://github.com/Rochester-NRT/RocAlphaGo">Roc AlphaGo</a></strong></p>
+<p align="left"><em>&ldquo;Mastering the game of Go with deep neural networks and tree search&rdquo;</em></p>
+<p align="left">12.)&nbsp;<strong><a href="https://github.com/donnemartin/data-science-ipython-notebooks">Data Science IPython Notebooks</a><u></u></strong></p>
+<p align="left">Collection of IPython notebooks<strong>&nbsp;</strong>which includes Big Data, Hadoop, scikit-learn and the scientific Python stack.</p>
+<p align="left">13.)&nbsp;<strong><a href="https://github.com/alexjc/neural-doodle">Neural Doodle</a></strong></p>
+<p align="left">Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling.</p>
+<p align="left">14.)&nbsp;<strong><a href="https://github.com/dmlc/mxnet">MXNet</a></strong></p>
+<p align="left">MXNet aims for both flexibility and efficiency, and allows the mixing of imperative and symbolic programming techniques to improve productivity. It includes bindings for languages Python, R, and Julia. MXNet comes with an array of neural network.</p>
+<p align="left">15.)&nbsp;<strong><a href="https://github.com/Microsoft/CNTK">CNTK</a></strong></p>
+<p align="left">Computational Network Toolkit (CNTK).</p>
+<p align="left">16.)&nbsp;<strong><a href="https://github.com/Theano/Theano">Theano</a></strong></p>
+<p align="left">Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently.</p>
+<p align="left">17.)&nbsp;<strong><a href="https://github.com/torch/torch7">Torch</a></strong></p>
+<p align="left">Torch7, Deep Learning Library.</p>
+<p align="left">18.)&nbsp;<strong><a href="https://github.com/cmusatyalab/openface">OpenFace</a></strong></p>
+<p align="left">Face recognition with deep neural networks.</p>
+<p align="left">19.)&nbsp;<strong><a href="https://github.com/karpathy/neuraltalk">Neural Talk</a></strong></p>
+<p align="left">NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.</p>
+<p align="left">20.)&nbsp;<strong><a href="https://github.com/karpathy/neuraltalk2">Neural Talk 2</a></strong></p>
+<p align="left">Efficient Image Captioning code in Torch, runs on GPU.</p>
+<p align="left">21.)&nbsp;<strong><a href="https://github.com/deeplearning4j/deeplearning4j">Deeplearning4j</a></strong></p>
+<p align="left">Deep Learning for Java, Scala &amp; Clojure on Hadoop, Spark.</p>
+<p align="left">22.)&nbsp;<strong><a href="https://github.com/openai/gym">OpenAI Gym</a></strong></p>
+<p align="left">A toolkit for developing and comparing reinforcement learning algorithms.</p>
+<p align="left">23.)&nbsp;<strong><a href="https://github.com/ty4z2008/Qix">Qix</a></strong></p>
+<p align="left">A wide range of computing and programming topics, including Node.Js, GoLang, and deep learning.</p>
+<p align="left">24.)&nbsp;<strong><a href="https://github.com/autumnai/leaf">Leaf</a></strong></p>
+<p align="left">Open Machine Intelligence Framework for Hackers.</p>
+<p align="left">25.)&nbsp;<strong><a href="https://github.com/tensorflow/magenta">Magenta</a></strong></p>
+<p align="left">Music and Art Generation with Machine Intelligence.</p>
+<p align="left">26.)&nbsp;<strong><a href="https://github.com/pavelgonchar/colornet">Colornet</a></strong></p>
+<p align="left">Neural Network to colorize grayscale images.</p>
+<p align="left">27.)&nbsp;<strong><a href="https://github.com/awentzonline/image-analogies">Image Analogies</a></strong></p>
+<p align="left">Generate image analogies using neural matching and blending.</p>
+<p align="left">28.)&nbsp;<strong><a href="https://github.com/pavelgonchar/colornet">Colornet</a></strong></p>
+<p align="left">Neural Network to colorize grayscale images.</p>
+<p align="left">29.)&nbsp;<strong><a href="https://github.com/karpathy/convnetjs">ConvNetJS</a>&nbsp;</strong></p>
+<p align="left">ConvNetJS is a JavaScript implementation of neural networks and their common modules, and includes numerous browser-based examples.</p>
+<p align="left">30.)&nbsp;<strong><a href="https://github.com/cazala/synaptic">Synaptic</a></strong></p>
+<p align="left">architecture-free neural network library for node.js and the browser.</p>
+<p align="left">31.)&nbsp;<strong><a href="https://github.com/NervanaSystems/neon">Neon</a></strong></p>
+<p align="left">Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana&trade;.</p>
+<p align="left">32.)&nbsp;<strong><a href="https://github.com/rasmusbergpalm/DeepLearnToolbox">Matlab Deep Learning Toolbox</a></strong></p>
+<p align="left">Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets/Autoencoders &amp; vanilla Neural Nets.</p>
+<p align="left">33.)&nbsp;<strong><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine Learning Tutorials</a>&nbsp;</strong></p>
+<p align="left">&nbsp;list of machine learning and deep learning tutorials, articles, and resources.&nbsp;</p>
+<p align="left">34.)&nbsp;<strong><a href="https://github.com/yenchenlin1994/DeepLearningFlappyBird">Deep Learning Flappy Bird</a></strong></p>
+<p align="left">Flappy Bird hack using Deep Reinforcement Learning</p>
+<p align="left">35.)&nbsp;<strong><a href="https://github.com/Newmu/Theano-Tutorials">Theano Tutorials</a></strong></p>
+<p align="left">Bare bones introduction to machine learning from linear regression to convolutional neural networks using Theano.</p>
+<p align="left">36.)&nbsp;<strong><a href="https://github.com/mila-udem/blocks">Blocks</a></strong></p>
+<p align="left">A Theano framework for building and training neural networks.</p>
+<p align="left">37.)&nbsp;<strong><a href="https://github.com/IDSIA/brainstorm">Brainstorm</a></strong></p>
+<p align="left">Fast, flexible and fun neural networks.</p>
+<p align="left">38.)&nbsp;<strong><a href="https://github.com/ryankiros/neural-storyteller">Neural Story Teller</a></strong></p>
+<p align="left">A recurrent neural network for generating little stories about images.</p>
+<p align="left">39.)&nbsp;<strong><a href="https://github.com/NVIDIA/DIGITS">DIGITS</a></strong></p>
+<p align="left">Deep Learning GPU Training System.</p>
+<p align="left">40.)&nbsp;<strong><a href="https://github.com/jisungk/deepjazz">Deep Jazz</a></strong></p>
+<p align="left">Deep learning driven jazz generation using Keras &amp; Theano!</p>
+<p align="left">42.)&nbsp;<strong><a href="https://github.com/aigamedev/scikit-neuralnetwork">Scikit Neural Net</a></strong></p>
+<p align="left">Deep neural networks without the learning cliff.</p>
+<p align="left">43.)&nbsp;<strong><a href="https://github.com/nivwusquorum/tensorflow-deepq">TensorFlow DeepQ</a></strong></p>
+<p align="left">A deep Q learning demonstration using Google Tensorflow.</p>
+<p align="left">45.)&nbsp;<strong><a href="https://github.com/yahoo/CaffeOnSpark">Caffe on Spark</a></strong></p>
+<p align="left">Caffe On Spark.</p>
+<p align="left">46.)&nbsp;<strong><a href="https://github.com/lisa-lab/DeepLearningTutorials">LISA Lab Deep Learning Tutorials</a>&nbsp;</strong></p>
+<p align="left">a collection of The University of Montreal&rsquo;s LISA Lab deep learning tutorials.&nbsp;</p>
+<p align="left">47.)&nbsp;<strong><a href="https://github.com/hughperkins/DeepCL">DeepCL</a></strong></p>
+<p align="left">OpenCL library to train deep convolutional neural networks.</p>
+<p align="left">48.)&nbsp;<strong><a href="https://github.com/AKSHAYUBHAT/VisualSearchServer">Visual Search Server</a></strong></p>
+<p align="left">Visual Search using Tensorflow inception model &amp; Approximate Nearest Neighbors.</p>
+<p align="left">49.)&nbsp;<strong><a href="https://github.com/beniz/deepdetect">Deep Detect</a></strong></p>
+<p align="left">Deep Learning API and Server in C++11 with Python bindings and support for Caffe.</p>
+<p align="left">50.)&nbsp;<strong><a href="https://github.com/karpathy/neuraltalk2">Neural Talk 2</a></strong></p>
+<p align="left">Efficient Image Captioning code in Torch, runs on GPU.</p>
