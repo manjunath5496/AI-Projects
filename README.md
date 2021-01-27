@@ -776,7 +776,7 @@
 <li id="2-analytics-zoo"><a href="https://github.com/intel-analytics/analytics-zoo">Analytics Zoo</a></li>
 <li id="3-ml5-js"><a href="https://github.com/ml5js/ml5-library">ML5.js</a></li>
 <li id="4-adanet"><a href="https://github.com/tensorflow/adanet">AdaNet</a></li>
-<li id="5-mljar"><a href="https://github.com/mljar/mljar-supervised.">Mljar</a></li>
+<li id="5-mljar"><a href="https://github.com/mljar/mljar-supervised">Mljar</a></li>
 <li id="6-convnetjs"><a href="https://github.com/karpathy/convnetjs">ConvNetJS</a></li>
 <li id="7-nni-neural-network-intelligence-"><a href="https://github.com/Microsoft/nni">NNI (Neural Network Intelligence)</a></li>
 <li id="8-datumbox"><a href="https://github.com/datumbox/datumbox-framework">Datumbox</a></li>
