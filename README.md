@@ -334,7 +334,7 @@
 <li class="toclevel-1 tocsection-7"><a href="#list"><span class="toctext">Best 59 Artificial Intelligence Projects For Beginners</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#list1"><span class="toctext">Top 50 Awesome Deep Learning Projects</span></a></li>
 <li class="toclevel-1 tocsection-1"><a href="#list2">Top 35 Machine Learning Projects</a></li>
-<li class="toclevel-1 tocsection-2"><a href="#firstHeading"><span class="toctext">Glossary of Artificial Intelligence</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#list3"><span class="toctext">6 Open-Source Projects to Become Future-Ready Data Scientist</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#Branches"><span class="toctext">The Most Significant Failures When Al Turned Rogue, Causing Disastrous Results</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#design">Applications of Artificial Intelligence</a></li>
 <li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
@@ -705,3 +705,18 @@
 <p>Ruby gem to calculate the similarity between texts using tf*idf</p>
 <p class="western"><strong>35.)&nbsp;</strong><a href="https://github.com/scikit-learn-contrib/lightning"><strong>scikit-learn-contrib /&nbsp;lightning</strong></a></p>
 <p>Large-scale linear classification, regression and ranking in Python</p>
+</br>
+
+<h2 id ="list3" class="entry-title">6 Open-Source Projects to Become Future-Ready Data Scientist</h2>
+<ul>
+<li><a href="https://github.com/facebookresearch/TransCoder" target="_blank" rel="noopener noreferrer">Transcoder &ndash; FB's Translator for programming languages</a></li>
+<li><a href="https://github.com/maudzung/Complex-YOLOv4-Pytorch" target="_blank" rel="noopener noreferrer">Navigate your way with Complex YOLO V4</a></li>
+<li><a href="https://github.com/facebookresearch/TransCoder" target="_blank" rel="noopener noreferrer">MMDetection3D &ndash; Power dive into 3D Object Detection</a></li>
+<li><a href="https://github.com/linkedin/detext" target="_blank" rel="noopener noreferrer">DeText &ndash; Deep Neural Text Understanding Framework</a></li>
+<li><a href="https://github.com/iterative/cml" target="_blank" rel="noopener noreferrer">CML &ndash; DevOps for Machine Learning</a></li>
+<li><a href="https://github.com/alan-turing-institute/sktime" target="_blank" rel="noopener noreferrer">Sktime &ndash; Sklearn for time-series</a></li>
+</ul>
+
+
+
+
