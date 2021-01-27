@@ -337,7 +337,7 @@
 <li class="toclevel-1 tocsection-2"><a href="#list3"><span class="toctext">6 Open-Source Projects to Become Future-Ready Data Scientist</span></a></li>
 <li class="toclevel-1 tocsection-3"><a href="#list4"><span class="toctext">6 Challenging Open Source Data Science Projects to Make you a Better Data Scientist</span></a></li>
 <li class="toclevel-1 tocsection-6"><a href="#list5">15 Best Data Science GitHub Repositories</a></li>
-<li class="toclevel-1 tocsection-8"><a href="#debate">Artificial Intelligence Debate</a></li>
+<li class="toclevel-1 tocsection-8"><a href="#list6">7 Innovative Machine Learning Projects</a></li>
 <li class="toclevel-1 tocsection-11"><a href="#fiction">Artificial Intelligence in Science Fiction</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#publications">List of Important Publications in AI</a></li>
 <li class="toclevel-1 tocsection-9"><a href="#philosophy"> Philosophy Of Artificial Intelligence</a></li>
@@ -758,3 +758,12 @@
 <li><a href="https://github.com/manjunath5496/AI-Projects/blob/main/2.pdf">AI Cheatsheet</a></li>
 </ul>
 <hr>
+<h2 id="list6" class="entry-title">7 Innovative Machine Learning Projects</h2>
+<ul>
+<li><a href="https://github.com/huggingface/pytorch-transformers" target="_blank" rel="noopener noreferrer">PyTorch-Transformers</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Natural_language_processing">NLP</a>)</li>
+<li><a href="https://github.com/Tencent/NeuralNLP-NeuralClassifier" target="_blank" rel="noopener noreferrer">NeuralClassifier</a>&nbsp;(NLP)</li>
+<li><a href="https://github.com/taosdata/TDengine" target="_blank" rel="noopener noreferrer">TDEngine</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Big_data">Big Data</a>)</li>
+<li><a href="https://github.com/zllrunning/video-object-removal" target="_blank" rel="noopener noreferrer">Video Object Removal</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Computer_vision">Computer Vision</a>)</li>
+<li><a href="https://github.com/vpj/python_autocomplete" target="_blank" rel="noopener noreferrer">Python Autocomplete</a>&nbsp;(Programming)</li>
+<li><a href="https://github.com/BlackHC/tfpyth" target="_blank" rel="noopener noreferrer">tfpyth &ndash; TensorFlow to PyTorch to TensorFlow</a>&nbsp;(Programming)</li>
+</ul>
