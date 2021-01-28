@@ -348,7 +348,7 @@
 <li class="toclevel-1 tocsection-17"><a href="#list14"> 24 Python machine learning libraries for data science projects </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list15"> 10 Awesome Open-Source Python Projects </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list16"> Top 4 Most Popular Chatbot Projects on Github </a></li>
-
+<li class="toclevel-1 tocsection-17"><a href="#list17"> Core ML Projects </a></li>
 
 
 </ul>
@@ -1829,7 +1829,229 @@ Paired Supervision</a></li>
 <p><a href="https://github.com/botpress/botpress" target="_blank" rel="noopener noreferrer">Botpress</a>&nbsp;is a framework for creating bots under Node.js. Its aim is to let developers create bots which non-technical people can manage. The bots use SQLite and PostgreSQL for databases. It's available under the AGPLv3 license, with an option to switch to a paid support license. The design makes heavy use of independent modules, and third parties are encouraged to create and share them. A separate GitHub repository contains officially supported modules.</p>
 <h2>BotMan</h2>
 <p><a href="https://github.com/botman/botman" target="_blank" rel="noopener noreferrer">BotMan</a>&nbsp;is a PHP library for building chatbots distributed under the MIT license and can be used by itself or in a Laravel-based bundle called BotMan Studio. Drivers are available for popular messaging channels, and developers can create their own drivers. A Web Driver and Web Widget allow adding a bot to an HTML page. Middleware hooks are available to add services. Support for the Dialogflow NLP service lets developers create bots with natural-language input.</p>
+</br>
+<h2 id="list17"> Core ML Projects </h2>
 
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">AnonML&nbsp;<a href="https://github.com/DAI-Lab/AnonML" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">ATM&nbsp;<a href="https://github.com/HDI-Project/ATM" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">ATM-Demos&nbsp;<a href="https://github.com/HDI-Project/ATM-Demos" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">ATMSeer&nbsp;<a href="https://github.com/HDI-Project/ATMSeer" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">AutoBazaar&nbsp;<a href="https://github.com/HDI-Project/AutoBazaar" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">ballet&nbsp;<a href="https://github.com/HDI-Project/ballet" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li>ballet-bot&nbsp;<a href="https://github.com/HDI-Project/ballet-bot" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">ballet-predict-house-prices&nbsp;<a href="https://github.com/HDI-Project/ballet-predict-house-prices" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">ballet-submit-labextension&nbsp;<a href="https://github.com/HDI-Project/ballet-submit-labextension" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">BTB&nbsp;<a href="https://github.com/HDI-Project/BTB" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">Cardea&nbsp;<a href="https://github.com/D3-AI/Cardea" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">Cardea-API&nbsp;<a href="https://github.com/D3-AI/Cardea-API" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">Copulas&nbsp;<a href="https://github.com/sdv-dev/Copulas" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">CTGAN&nbsp;<a href="https://github.com/sdv-dev/CTGAN" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">d3m-dataset-manager&nbsp;<a href="https://github.com/HDI-Project/d3m-dataset-manager" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">DataAudit&nbsp;<a href="https://github.com/HDI-Project/DataAudit" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">FeatureHub&nbsp;<a href="https://github.com/HDI-Project/FeatureHub" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">github-oauth-gateway&nbsp;<a href="https://github.com/HDI-Project/github-oauth-gateway" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">GreenGuard&nbsp;<a href="https://github.com/D3-AI/GreenGuard" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">hdi-project.github.io&nbsp;<a href="https://github.com/HDI-Project/hdi-project.github.io" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">iBOCA&nbsp;<a href="https://github.com/DAI-Lab/iBOCA" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">mit-d3m&nbsp;<a href="https://github.com/HDI-Project/mit-d3m" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">mit-d3m-ta2&nbsp;<a href="https://github.com/HDI-Project/mit-d3m-ta2" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">mit-primitives&nbsp;<a href="https://github.com/HDI-Project/mit-primitives" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">mlbazaar-demos&nbsp;<a href="https://github.com/HDI-Project/mlbazaar-demos" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">MLBlocks&nbsp;<a href="https://github.com/HDI-Project/MLBlocks" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">MLBlocks-Demos&nbsp;<a href="https://github.com/HDI-Project/MLBlocks-Demos" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">MLPrimitives&nbsp;<a href="https://github.com/HDI-Project/MLPrimitives" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">ModelAudit&nbsp;<a href="https://github.com/HDI-Project/ModelAudit" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">Orion&nbsp;<a href="https://github.com/D3-AI/Orion" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">piex&nbsp;<a href="https://github.com/HDI-Project/piex" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">RDT&nbsp;<a href="https://github.com/sdv-dev/RDT" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">RivaGAN&nbsp;<a href="https://github.com/DAI-Lab/RivaGAN" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">SDGym&nbsp;<a href="https://github.com/sdv-dev/SDGym" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">SD&nbsp;<a href="https://github.com/sdv-dev/SDMetrics" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">SDV&nbsp;<a href="https://github.com/sdv-dev/SDV" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">SteganoGAN&nbsp;<a href="https://github.com/DAI-Lab/SteganoGAN" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">StegBench&nbsp;<a href="https://github.com/DAI-Lab/StegBench" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">TGAN&nbsp;<a href="https://github.com/sdv-dev/TGAN" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">Tiresias&nbsp;<a href="https://github.com/DAI-Lab/Tiresias" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">Trane&nbsp;<a href="https://github.com/HDI-Project/Trane" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">Trane-Demos&nbsp;<a href="https://github.com/HDI-Project/Trane-Demos" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">tsdm&nbsp;<a href="https://github.com/HDI-Project/tsdm" target="_blank">GitHub</a></li>
+</ul>
+</div>
+<div class="Grid-cell u-size1of3 project-card">
+<ul>
+<li class="project-name small-margin">water&nbsp;<a href="https://github.com/D3-AI/water" target="_blank">GitHub</a></li>
+</ul>
+</div>
 
 
 
