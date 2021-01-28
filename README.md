@@ -345,8 +345,7 @@
 <li class="toclevel-1 tocsection-16"><a href="#list11"> 11 Interesting Natural Language Processing Projects</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list12"> 12 Best Computer Vision Projects</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list13"> Top 5 Speech Recognition Open-Source Projects and Libraries</a></li>
-
-
+<li class="toclevel-1 tocsection-17"><a href="#list14"> 24 Python machine learning libraries for data science projects </a></li>
 
 
 </ul>
