@@ -351,7 +351,7 @@
 <li class="toclevel-1 tocsection-17"><a href="#list17"> Core ML Projects </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list18"> 180 Data Science and ML Projects Solved and Explained with Python </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list19"> Open Access AI and ML Resources </a></li>
-
+<li class="toclevel-1 tocsection-17"><a href="#list20"> AI Applications </a></li>
 
 
 
@@ -2323,4 +2323,255 @@ for Artificial Intelligence</a></li>
 <li class="entry-title"><a href="https://www.mitpressjournals.org/loi/coli">Association for Computational Linguistics</a></li>
 <li class="entry-title"><a href="https://www.youtube.com/results?search_query=machine+learning">YouTube</a></li>
 </ul>
+</br>
+<h2 id="list20" class="firstHeading" lang="en">AI Applications</h2>
+<div class="mw-category-group">
+<h3>A</h3>
+<ul>
+<li><a title="Accord.NET" href="https://en.wikipedia.org/wiki/Accord.NET">Accord.NET</a></li>
+<li><a title="Activity recognition" href="https://en.wikipedia.org/wiki/Activity_recognition">Activity recognition</a></li>
+<li><a title="AForge.NET" href="https://en.wikipedia.org/wiki/AForge.NET">AForge.NET</a></li>
+<li><a title="Aidoc" href="https://en.wikipedia.org/wiki/Aidoc">Aidoc</a></li>
+<li><a title="AIVA" href="https://en.wikipedia.org/wiki/AIVA">AIVA</a></li>
+<li><a title="Akinator" href="https://en.wikipedia.org/wiki/Akinator">Akinator</a></li>
+<li><a title="AlphaFold" href="https://en.wikipedia.org/wiki/AlphaFold">AlphaFold</a></li>
+<li><a title="AlphaGo" href="https://en.wikipedia.org/wiki/AlphaGo">AlphaGo</a></li>
+<li><a title="AlphaGo Zero" href="https://en.wikipedia.org/wiki/AlphaGo_Zero">AlphaGo Zero</a></li>
+<li><a title="AlphaStar (software)" href="https://en.wikipedia.org/wiki/AlphaStar_(software)">AlphaStar (software)</a></li>
+<li><a title="AlphaZero" href="https://en.wikipedia.org/wiki/AlphaZero">AlphaZero</a></li>
+<li><a title="Artificial imagination" href="https://en.wikipedia.org/wiki/Artificial_imagination">Artificial imagination</a></li>
+<li><a title="Artificial Intelligence Applications Institute" href="https://en.wikipedia.org/wiki/Artificial_Intelligence_Applications_Institute">Artificial Intelligence Applications Institute</a></li>
+<li><a title="Artificial intelligence in government" href="https://en.wikipedia.org/wiki/Artificial_intelligence_in_government">Artificial intelligence in government</a></li>
+<li><a title="Artificial intelligence in hiring" href="https://en.wikipedia.org/wiki/Artificial_intelligence_in_hiring">Artificial intelligence in hiring</a></li>
+<li><a title="Artificial intuition" href="https://en.wikipedia.org/wiki/Artificial_intuition">Artificial intuition</a></li>
+<li><a title="Artificial Solutions" href="https://en.wikipedia.org/wiki/Artificial_Solutions">Artificial Solutions</a></li>
+<li><a title="Artisto" href="https://en.wikipedia.org/wiki/Artisto">Artisto</a></li>
+<li><a title="Automated journalism" href="https://en.wikipedia.org/wiki/Automated_journalism">Automated journalism</a></li>
+<li><a title="Automatic image annotation" href="https://en.wikipedia.org/wiki/Automatic_image_annotation">Automatic image annotation</a></li>
+<li><a title="Automatic number-plate recognition" href="https://en.wikipedia.org/wiki/Automatic_number-plate_recognition">Automatic number-plate recognition</a></li>
+<li><a title="Automation in construction" href="https://en.wikipedia.org/wiki/Automation_in_construction">Automation in construction</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>B</h3>
+<ul>
+<li><a title="Big mechanism" href="https://en.wikipedia.org/wiki/Big_mechanism">Big mechanism</a></li>
+<li><a title="Braina" href="https://en.wikipedia.org/wiki/Braina">Braina</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>C</h3>
+<ul>
+<li><a title="Catboost" href="https://en.wikipedia.org/wiki/Catboost">Catboost</a></li>
+<li><a title="Chinese speech synthesis" href="https://en.wikipedia.org/wiki/Chinese_speech_synthesis">Chinese speech synthesis</a></li>
+<li><a title="Cleverbot" href="https://en.wikipedia.org/wiki/Cleverbot">Cleverbot</a></li>
+<li><a title="Clinical decision support system" href="https://en.wikipedia.org/wiki/Clinical_decision_support_system">Clinical decision support system</a></li>
+<li><a title="CloudSight" href="https://en.wikipedia.org/wiki/CloudSight">CloudSight</a></li>
+<li><a title="Computational tools for artificial intelligence" href="https://en.wikipedia.org/wiki/Computational_tools_for_artificial_intelligence">Computational tools for artificial intelligence</a></li>
+<li><a title="Concept mining" href="https://en.wikipedia.org/wiki/Concept_mining">Concept mining</a></li>
+<li><a title="Content-based image retrieval" href="https://en.wikipedia.org/wiki/Content-based_image_retrieval">Content-based image retrieval</a></li>
+<li><a title="Context-sensitive user interface" href="https://en.wikipedia.org/wiki/Context-sensitive_user_interface">Context-sensitive user interface</a></li>
+<li><a title="Coronavirus breathalyzer" href="https://en.wikipedia.org/wiki/Coronavirus_breathalyzer">Coronavirus breathalyzer</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>D</h3>
+<ul>
+<li><a title="Data analysis techniques for fraud detection" href="https://en.wikipedia.org/wiki/Data_analysis_techniques_for_fraud_detection">Data analysis techniques for fraud detection</a></li>
+<li><a title="DEARhealth" href="https://en.wikipedia.org/wiki/DEARhealth">DEARhealth</a></li>
+<li><a title="Deepfake" href="https://en.wikipedia.org/wiki/Deepfake">Deepfake</a></li>
+<li><a title="DialogOS" href="https://en.wikipedia.org/wiki/DialogOS">DialogOS</a></li>
+<li><a title="Dr. Sbaitso" href="https://en.wikipedia.org/wiki/Dr._Sbaitso">Dr. Sbaitso</a></li>
+<li><a title="Document capture software" href="https://en.wikipedia.org/wiki/Document_capture_software">Document capture software</a></li>
+<li><a title="Document processing" href="https://en.wikipedia.org/wiki/Document_processing">Document processing</a></li>
+<li><a title="Documenting Hate" href="https://en.wikipedia.org/wiki/Documenting_Hate">Documenting Hate</a></li>
+<li><a title="DoNotPay" href="https://en.wikipedia.org/wiki/DoNotPay">DoNotPay</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>E</h3>
+<ul>
+<li><a title="Eccky" href="https://en.wikipedia.org/wiki/Eccky">Eccky</a></li>
+<li><a title="Eloquens (software)" href="https://en.wikipedia.org/wiki/Eloquens_(software)">Eloquens (software)</a></li>
+<li><a title="Embryo Ranking Intelligent Classification Algorithm" href="https://en.wikipedia.org/wiki/Embryo_Ranking_Intelligent_Classification_Algorithm">Embryo Ranking Intelligent Classification Algorithm</a></li>
+<li><a title="Emotion recognition" href="https://en.wikipedia.org/wiki/Emotion_recognition">Emotion recognition</a></li>
+<li><a title="Emotion recognition in conversation" href="https://en.wikipedia.org/wiki/Emotion_recognition_in_conversation">Emotion recognition in conversation</a></li>
+<li><a title="ESTAR project" href="https://en.wikipedia.org/wiki/ESTAR_project">ESTAR project</a></li>
+<li><a title="ETAP-3" href="https://en.wikipedia.org/wiki/ETAP-3">ETAP-3</a></li>
+<li><a title="EuResist" href="https://en.wikipedia.org/wiki/EuResist">EuResist</a></li>
+<li><a title="Eurisko" href="https://en.wikipedia.org/wiki/Eurisko">Eurisko</a></li>
+<li><a title="Evergage" href="https://en.wikipedia.org/wiki/Evergage">Evergage</a></li>
+</ul>
+<div class="mw-category-group">&nbsp;</div>
+<div class="mw-category-group">
+<h3>F</h3>
+<ul>
+<li><a title="Fake nude photography" href="https://en.wikipedia.org/wiki/Fake_nude_photography">Fake nude photography</a></li>
+<li><a title="FatKat (investment software)" href="https://en.wikipedia.org/wiki/FatKat_(investment_software)">FatKat (investment software)</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>G</h3>
+<ul>
+<li><a title="GestureTek" href="https://en.wikipedia.org/wiki/GestureTek">GestureTek</a></li>
+<li><a title="GNOME Chess" href="https://en.wikipedia.org/wiki/GNOME_Chess">GNOME Chess</a></li>
+<li><a title="Google Cloud Search" href="https://en.wikipedia.org/wiki/Google_Cloud_Search">Google Cloud Search</a></li>
+<li><a title="Google Neural Machine Translation" href="https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation">Google Neural Machine Translation</a></li>
+<li><a title="Government by algorithm" href="https://en.wikipedia.org/wiki/Government_by_algorithm">Government by algorithm</a></li>
+<li><a title="Grandmaster Chess" href="https://en.wikipedia.org/wiki/Grandmaster_Chess">Grandmaster Chess</a></li>
+<li><a title="Ground truth" href="https://en.wikipedia.org/wiki/Ground_truth">Ground truth</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>H</h3>
+<ul>
+<li><a title="Handwriting recognition" href="https://en.wikipedia.org/wiki/Handwriting_recognition">Handwriting recognition</a></li>
+<li><a title="Artificial intelligence in healthcare" href="https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare">Artificial intelligence in healthcare</a></li>
+<li><a title="Horovod (machine learning)" href="https://en.wikipedia.org/wiki/Horovod_(machine_learning)">Horovod (machine learning)</a></li>
+<li><a title="How Bad is Your Spotify?" href="https://en.wikipedia.org/wiki/How_Bad_is_Your_Spotify%3F">How Bad is Your Spotify?</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>I</h3>
+<ul>
+<li><a title="Infer.NET" href="https://en.wikipedia.org/wiki/Infer.NET">Infer.NET</a></li>
+<li><a title="Intelligent character recognition" href="https://en.wikipedia.org/wiki/Intelligent_character_recognition">Intelligent character recognition</a></li>
+<li><a title="Interactions Corporation" href="https://en.wikipedia.org/wiki/Interactions_Corporation">Interactions Corporation</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>K</h3>
+<ul>
+<li><a title="Kasparov's Gambit" href="https://en.wikipedia.org/wiki/Kasparov%27s_Gambit">Kasparov's Gambit</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>L</h3>
+<ul>
+<li><a title="Language Acquisition Device (computer)" href="https://en.wikipedia.org/wiki/Language_Acquisition_Device_(computer)">Language Acquisition Device (computer)</a></li>
+<li><a title="Language identification" href="https://en.wikipedia.org/wiki/Language_identification">Language identification</a></li>
+<li><a title="LightGBM" href="https://en.wikipedia.org/wiki/LightGBM">LightGBM</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>M</h3>
+<ul>
+<li><a title="Machine translation" href="https://en.wikipedia.org/wiki/Machine_translation">Machine translation</a></li>
+<li><a title="Machine translation software usability" href="https://en.wikipedia.org/wiki/Machine_translation_software_usability">Machine translation software usability</a></li>
+<li><a title="Marketing and artificial intelligence" href="https://en.wikipedia.org/wiki/Marketing_and_artificial_intelligence">Marketing and artificial intelligence</a></li>
+<li><a title="Artificial intelligence marketing" href="https://en.wikipedia.org/wiki/Artificial_intelligence_marketing">Artificial intelligence marketing</a></li>
+<li><a title="Mind's Eye (US military)" href="https://en.wikipedia.org/wiki/Mind%27s_Eye_(US_military)">Mind's Eye (US military)</a></li>
+<li><a title="ML.NET" href="https://en.wikipedia.org/wiki/ML.NET">ML.NET</a></li>
+<li><a title="Mobile translation" href="https://en.wikipedia.org/wiki/Mobile_translation">Mobile translation</a></li>
+<li><a title="Mobileye" href="https://en.wikipedia.org/wiki/Mobileye">Mobileye</a></li>
+<li><a title="Monitoring and surveillance agents" href="https://en.wikipedia.org/wiki/Monitoring_and_surveillance_agents">Monitoring and surveillance agents</a></li>
+<li><a title="Trenchard More" href="https://en.wikipedia.org/wiki/Trenchard_More">Trenchard More</a></li>
+<li><a title="MUSA (MUltichannel Speaking Automaton)" href="https://en.wikipedia.org/wiki/MUSA_(MUltichannel_Speaking_Automaton)">MUSA (MUltichannel Speaking Automaton)</a></li>
+<li><a title="MuZero" href="https://en.wikipedia.org/wiki/MuZero">MuZero</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>N</h3>
+<ul>
+<li><a title="Natural-language user interface" href="https://en.wikipedia.org/wiki/Natural-language_user_interface">Natural-language user interface</a></li>
+<li><a title="Network compartment" href="https://en.wikipedia.org/wiki/Network_compartment">Network compartment</a></li>
+<li><a title="Neural machine translation" href="https://en.wikipedia.org/wiki/Neural_machine_translation">Neural machine translation</a></li>
+<li><a title="Neural Network Intelligence" href="https://en.wikipedia.org/wiki/Neural_Network_Intelligence">Neural Network Intelligence</a></li>
+<li><a title="Neural network software" href="https://en.wikipedia.org/wiki/Neural_network_software">Neural network software</a></li>
+<li><a title="" href="https://en.wikipedia.org/wiki/Niki.ai">Niki.ai</a></li>
+<li><a title="Noisy text analytics" href="https://en.wikipedia.org/wiki/Noisy_text_analytics">Noisy text analytics</a></li>
+</ul>
+<div class="mw-category-group">&nbsp;</div>
+<div class="mw-category-group">
+<h3>O</h3>
+<ul>
+<li><a title="OpenAI Five" href="https://en.wikipedia.org/wiki/OpenAI_Five">OpenAI Five</a></li>
+<li><a title="OpenNN" href="https://en.wikipedia.org/wiki/OpenNN">OpenNN</a></li>
+<li><span class="redirect-in-category"><a class="mw-redirect" title="Optical answer sheet" href="https://en.wikipedia.org/wiki/Optical_answer_sheet">Optical answer sheet</a></span></li>
+<li><a title="Optical braille recognition" href="https://en.wikipedia.org/wiki/Optical_braille_recognition">Optical braille recognition</a></li>
+<li><a title="Optical character recognition" href="https://en.wikipedia.org/wiki/Optical_character_recognition">Optical character recognition</a></li>
+<li><a title="Optical mark recognition" href="https://en.wikipedia.org/wiki/Optical_mark_recognition">Optical mark recognition</a></li>
+<li><a title="Orange (software)" href="https://en.wikipedia.org/wiki/Orange_(software)">Orange (software)</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>P</h3>
+<ul>
+<li><a title="Pcloudy" href="https://en.wikipedia.org/wiki/Pcloudy">Pcloudy</a></li>
+<li><a title="Polyworld" href="https://en.wikipedia.org/wiki/Polyworld">Polyworld</a></li>
+<li><a title="Pommerman Challenge" href="https://en.wikipedia.org/wiki/Pommerman_Challenge">Pommerman Challenge</a></li>
+<li><a title="Pop music automation" href="https://en.wikipedia.org/wiki/Pop_music_automation">Pop music automation</a></li>
+<li><a title="Projekt Melody" href="https://en.wikipedia.org/wiki/Projekt_Melody">Projekt Melody</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>Q</h3>
+<ul>
+<li><a title="QANDA" href="https://en.wikipedia.org/wiki/QANDA">QANDA</a></li>
+<li><a title="Qordoba" href="https://en.wikipedia.org/wiki/Qordoba">Qordoba</a></li>
+<li><a title="Quack.com" href="https://en.wikipedia.org/wiki/Quack.com">Quack.com</a></li>
+<li><a title="Question answering" href="https://en.wikipedia.org/wiki/Question_answering">Question answering</a></li>
+<li><a title="Quick, Draw!" href="https://en.wikipedia.org/wiki/Quick,_Draw!">Quick, Draw!</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>R</h3>
+<ul>
+<li><a title="Resistance Database Initiative" href="https://en.wikipedia.org/wiki/Resistance_Database_Initiative">Resistance Database Initiative</a></li>
+<li><a title="Riiid" href="https://en.wikipedia.org/wiki/Riiid">Riiid</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>S</h3>
+<ul>
+<li><a title="Sayre's paradox" href="https://en.wikipedia.org/wiki/Sayre%27s_paradox">Sayre's paradox</a></li>
+<li><a title="SCIgen" href="https://en.wikipedia.org/wiki/SCIgen">SCIgen</a></li>
+<li><a title="Silent speech interface" href="https://en.wikipedia.org/wiki/Silent_speech_interface">Silent speech interface</a></li>
+<li><a title="SILVIA" href="https://en.wikipedia.org/wiki/SILVIA">SILVIA</a></li>
+<li><a title="Sinewave synthesis" href="https://en.wikipedia.org/wiki/Sinewave_synthesis">Sinewave synthesis</a></li>
+<li><a title="SmartAction" href="https://en.wikipedia.org/wiki/SmartAction">SmartAction</a></li>
+<li><a title="Speech-generating device" href="https://en.wikipedia.org/wiki/Speech-generating_device">Speech-generating device</a></li>
+<li><a title="Speech synthesis" href="https://en.wikipedia.org/wiki/Speech_synthesis">Speech synthesis</a></li>
+<li><a title="Squirrel AI" href="https://en.wikipedia.org/wiki/Squirrel_AI">Squirrel AI</a></li>
+<li><a title="Statistical semantics" href="https://en.wikipedia.org/wiki/Statistical_semantics">Statistical semantics</a></li>
+<li><a title="StyleGAN" href="https://en.wikipedia.org/wiki/StyleGAN">StyleGAN</a></li>
+<li><a title="Sunspring" href="https://en.wikipedia.org/wiki/Sunspring">Sunspring</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>T</h3>
+<ul>
+<li><a title="TasteDive" href="https://en.wikipedia.org/wiki/TasteDive">TasteDive</a></li>
+<li><a title="Text mining" href="https://en.wikipedia.org/wiki/Text_mining">Text mining</a></li>
+<li><a title="TuVox" href="https://en.wikipedia.org/wiki/TuVox">TuVox</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>V</h3>
+<ul>
+<li><a title="Vehicle infrastructure integration" href="https://en.wikipedia.org/wiki/Vehicle_infrastructure_integration">Vehicle infrastructure integration</a></li>
+<li><a title="Verbot" href="https://en.wikipedia.org/wiki/Verbot">Verbot</a></li>
+<li><a title="Virtual politician" href="https://en.wikipedia.org/wiki/Virtual_politician">Virtual politician</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>W</h3>
+<ul>
+<li><a title="WebCrow" href="https://en.wikipedia.org/wiki/WebCrow">WebCrow</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>X</h3>
+<ul>
+<li><a title="Xaitment" href="https://en.wikipedia.org/wiki/Xaitment">Xaitment</a></li>
+</ul>
+</div>
+<div class="mw-category-group">
+<h3>Y</h3>
+<ul>
+<li><a title="YouNoodle" href="https://en.wikipedia.org/wiki/YouNoodle">YouNoodle</a></li>
+</ul>
+</div>
+</div>
+</div>
 
