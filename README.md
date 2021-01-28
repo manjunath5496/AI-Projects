@@ -341,7 +341,7 @@
 <li class="toclevel-1 tocsection-11"><a href="#list7">15 Best Machine Learning Frameworks</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#list8">Top 20 Python AI and Machine Learning Open Source Projects</a></li>
 <li class="toclevel-1 tocsection-9"><a href="#list9"> Top Recommended AI Articles</a></li>
-<li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
+<li class="toclevel-1 tocsection-15"><a href="#list10">7 Best Reinforcement Learning Repositories</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#view"> Perspectives On AI</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
 <li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
@@ -1674,4 +1674,20 @@ with an Approximate, Learned Model</a></li>
 
 
 </ul>
+</br>
+
+<h2 id ="list10" class="entry-title">7 Best Reinforcement Learning Repositories</h2>
+<ul>
+<li><a href="https://github.com/Zeta36/connect4-alpha-zero">Connect4 Game Playing by AlphaGo Zero Method</a></li>
+<li><a href="https://github.com/navjindervirdee/2048-deep-reinforcement-learning">Play 2048 using Deep-Reinforcement Learning</a></li>
+<li><a href="https://github.com/aleju/self-driving-truck">Self-Driving Truck Simulator with Reinforcement Learning</a></li>
+<li><a href="https://github.com/Zeta36/chess-alpha-zero">Chess Game Playing with AlphaGo Zero methods</a></li>
+<li><a href="https://github.com/ianxxiao/reinforcement_learning_project">City Bike Rebalancing Problem</a></li>
+<li><a href="https://github.com/CR-Gjx/LeakGAN">Long Text Generation with LeakGAN</a></li>
+<li><a href="https://github.com/KaiyangZhou/pytorch-vsumm-reinforce">Video summarization with deep reinforcement learning</a></li>
+</ul>
+
+
+
+
 
