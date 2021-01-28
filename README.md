@@ -1592,7 +1592,83 @@ with an Approximate, Learned Model</a></li>
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(187).pdf" style="text-decoration:none;">Rollout Algorithms for Combinatorial Optimization</a></li>
                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(1).pdf" style="text-decoration:none;">Social media analytics: a survey of techniques, tools and platforms</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(2).pdf" style="text-decoration:none;">A socially inspired energy feedback technology: challenges in a developing scenario</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(3).pdf" style="text-decoration:none;">Pop-up political advocacy communities on reddit.com: SandersForPresident and The Donald</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(4).pdf" style="text-decoration:none;">Facebook and virtual nationhood: social media and the Arab Canadians community</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(5).pdf" style="text-decoration:none;">Searle's wager</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(6).pdf" style="text-decoration:none;">I in an other's eye</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(7).pdf" style="text-decoration:none;">Limits and opportunities for mathematizing communicational conduct for social robotics in the real world? Toward enabling a robot to make use of the human's competences</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(8).pdf" style="text-decoration:none;"> Collective intelligence for promoting changes in behaviour: a case study on energy conservation</a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(9).pdf" style="text-decoration:none;">Man as 'aggregate of data'</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(10).pdf" style="text-decoration:none;">Social intelligence: How to integrate research? A mechanistic perspective</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(11).pdf" style="text-decoration:none;">Culture-based artefacts to inform ICT design: foundations and practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(12).pdf" style="text-decoration:none;">Shikakeology: designing triggers for behavior change</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(13).pdf" style="text-decoration:none;">An anatomy of shikakes</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(14).pdf" style="text-decoration:none;">"When words become unclear": unmasking ICT through visual methodologies in participatory ICT4D</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(15).pdf" style="text-decoration:none;">Skillful coping with and through technologies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(16).pdf" style="text-decoration:none;">The computational therapeutic: exploring Weizenbaum's ELIZA as a history of the present</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(17).pdf" style="text-decoration:none;">Vulnerability under the gaze of robots: relations among humans and robots</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(18).pdf" style="text-decoration:none;">The brain as artificial intelligence: prospecting the frontiers of neuroscience</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(19).pdf" style="text-decoration:none;">The reappearing tool: transparency, smart technology, and the extended mind</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(20).pdf" style="text-decoration:none;">AI, agency and responsibility: the VW fraud case and beyond</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(21).pdf" style="text-decoration:none;">Granularity in reciprocity</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(22).pdf" style="text-decoration:none;">Encountering bloody others in mined reality</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(23).pdf" style="text-decoration:none;">GRASP agents: social first, intelligent later</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(24).pdf" style="text-decoration:none;">Why AI shall emerge in the one of possible worlds?</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(25).pdf" style="text-decoration:none;">The eyes of the state: how central banks think</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(26).pdf" style="text-decoration:none;">Can a machine think (anything new)? Automation beyond simulation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(27).pdf" style="text-decoration:none;">The art, poetics, and grammar of technological innovation as practice, process, and performance</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(28).pdf" style="text-decoration:none;">Thinking with external representations</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(29).pdf" style="text-decoration:none;">Description of philophonetics counselling as expressive therapeutic modality for treating depression </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(30).pdf" style="text-decoration:none;">A formal account of opportunism based on the situation calculus</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(31).pdf" style="text-decoration:none;">Programming Machine Ethics by Luís Moniz Pereira and Ari Saptawijaya</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(32).pdf" style="text-decoration:none;">Two acts of social intelligence: the effects of mimicry and social praise on the evaluation of an artificial agent</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(33).pdf" style="text-decoration:none;">Freud, Frankenstein and our fear of robots: projection in our cultural perception of technology</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(34).pdf" style="text-decoration:none;">Exploring sociality and engagement in play through game-control distribution</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(35).pdf" style="text-decoration:none;">Training young engineers to see</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(36).pdf" style="text-decoration:none;">Apostrophe, witnessing and its essentially theatrical modes of address: Maria Dermout on Pattimura and Kara Walker on the New Orleans flooding</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(37).pdf" style="text-decoration:none;">You, robot: on the linguistic construction of artificial others</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(38).pdf" style="text-decoration:none;">Witnessed presence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(39).pdf" style="text-decoration:none;">Social intelligence design in ambient intelligence</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(40).pdf" style="text-decoration:none;">Gaze behaviour, believability, likability and the iCat</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(41).pdf" style="text-decoration:none;">Awareness systems and the role of social intelligence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(42).pdf" style="text-decoration:none;">Reflection in interaction</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(43).pdf" style="text-decoration:none;">Building a pedagogy around action and emotion: experiences of Blind Opera of Kolkata</a></li>
 
 
 
