@@ -1757,7 +1757,7 @@ on dynamic argumentation systems</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(36).pdf" style="text-decoration:none;">Determining inference semantics for disjunctive logic programs</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(37).pdf" style="text-decoration:none;">Arbitrary arrow update logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(38).pdf" style="text-decoration:none;">A parametric propagator for pairs ofSumconstraints with a discrete convexity property</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(38).pdf" style="text-decoration:none;">A parametric propagator for pairs of Sum constraints with a discrete convexity property</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(39).pdf" style="text-decoration:none;">Online belief tracking using regression for contingent planning</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(40).pdf" style="text-decoration:none;">A computational framework for conceptual blending</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(41).pdf" style="text-decoration:none;">Distributed fair allocation of indivisible goods</a></li>
@@ -1768,7 +1768,8 @@ on dynamic argumentation systems</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(45).pdf" style="text-decoration:none;">Computing and restoring global inverse consistency in interactive constraint satisfaction</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(46).pdf" style="text-decoration:none;">New local search methods for partial MaxSAT</a></li> 
-                             
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(47).pdf" style="text-decoration:none;">A General Reading List
+for Artificial Intelligence</a></li>                            
 </ul>
 </br>
 
