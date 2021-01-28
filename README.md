@@ -1750,7 +1750,7 @@ Paired Supervision</a></li>
 </ul>
 </br>
 
-<h2 class="lg-post-info__title">24 Python machine learning libraries for data science projects</h2>
+<h2 id ="list14" class="lg-post-info__title">24 Python machine learning libraries for data science projects</h2>
 <h3><span id="1_NumPy" class="ez-toc-section"><strong>1.&nbsp;<a href="https://github.com/numpy/numpy" target="_blank" rel="nofollow">NumPy</a></strong></span></h3>
 <p><a href="https://en.wikipedia.org/wiki/NumPy">NumPy</a> (Numerical Python) provides a lot of useful features for performing operations on n-arrays and matrices in Python. You&rsquo;ll get vectorization of mathematical operations on the NumPy array type that boosts its performance and speeds up the execution.</p>
 <h3><span id="2_SciPy" class="ez-toc-section">2.&nbsp;<a href="https://github.com/scipy/scipy" target="_blank" rel="nofollow">SciPy</a></span></h3>
@@ -1767,7 +1767,6 @@ Paired Supervision</a></li>
 <p>Plotly is a web-based tool for building visualizations and exposing APIs to programming languages like Python. You can find plenty of impressive, out-of-box graphics on the&nbsp;<a href="https://plot.ly/" target="_blank" rel="nofollow">Plot.ly website</a>. In general, the library is adapted to work in interactive web applications. The library is being constantly expanded with new graphics and features that support multiple linked views, &nbsp;animation, and crosstalk integration.</p>
 <h3><span id="8_pydot" class="ez-toc-section">8.&nbsp;<a href="https://github.com/pydot/pydot" target="_blank" rel="nofollow">pydot</a></span></h3>
 <p>Pydot is a library that helps developers generate oriented and non-oriented graphs. It works as an interface to Graphviz which is written in pure Python. With this library, developers can show the structure of graphs &ndash; and these are often essential when you&rsquo;re building algorithms based on neural networks and decision trees.</p>
-<p>&nbsp;</p>
 <h3><span id="9_SciKit-Learn" class="ez-toc-section">9.&nbsp;<a href="https://github.com/scikit-learn/scikit-learn" target="_blank" rel="nofollow">SciKit-Learn</a></span></h3>
 <p>Scikits are a group of extra packages in the SciPy Stack that were designed for specific functionalities like image processing. When it comes to machine learning facilitation, Scikit-learn holds the reign. The package is built on the top of SciPy and uses its math operations to expose a concise interface to common machine learning algorithms. The library offers great code, quality documentation, intuitive use, and high performance. An industry standard for Python machine learning projects.</p>
 <h3><span id="10_XGBoost" class="ez-toc-section">10.&nbsp;<a href="https://github.com/dmlc/xgboost" target="_blank" rel="nofollow">XGBoost</a></span></h3>
@@ -1798,7 +1797,6 @@ Paired Supervision</a></li>
 <p>StatsModels is a Python library that allows carrying out data exploration through the use of different statistical models estimation methods and performing statistical assertions and analysis. The library includes descriptive and result statistics via linear regression models, robust linear models, discrete choice models, generalized linear models, time series analysis models, and more. You can also benefit from its plotting functions that were designed specifically for statistical analysis and high performance in working with large data sets.</p>
 <h3><span id="23_Scrapy" class="ez-toc-section">23.&nbsp;<a href="https://github.com/scrapy/scrapy" target="_blank" rel="nofollow">Scrapy</a></span></h3>
 <p>This is one of handiest Python machine learning libraries of all! It helps to create crawling programs (spider bots) that retrieve structured data from the web (like contact info or URLs). It's a full-fledged framework used by developers for gathering data from APIs. It follows Don&rsquo;t Repeat Yourself in its interface design , inspiring users to  write general, universal code that can be reusable in building and scaling large crawlers.</p>
-<p>&nbsp;</p>
 <h3><span id="24_Pattern" class="ez-toc-section">24.&nbsp;<a href="https://github.com/clips/pattern" target="_blank" rel="nofollow">Pattern</a></span></h3>
 <p>This full suite library provides ML algorithms, as well as tools for collecting and analyzing data. The data mining features help to collect data from Google, Twitter, and Wikipedia. It includes a web crawler and HTML DOM parser. You can use it to collect and train on data in one place.</p>
 </br>
