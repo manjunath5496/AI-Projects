@@ -1665,7 +1665,9 @@ with an Approximate, Learned Model</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(42).pdf" style="text-decoration:none;">Reflection in interaction</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(43).pdf" style="text-decoration:none;">Building a pedagogy around action and emotion: experiences of Blind Opera of Kolkata</a></li>
-
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(44).pdf" style="text-decoration:none;">
+Neural Photo Editing with Introspective Adversarial Networks</a></li>
 
 
 
