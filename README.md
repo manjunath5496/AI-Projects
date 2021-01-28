@@ -1687,7 +1687,88 @@ Neural Photo Editing with Introspective Adversarial Networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(50).pdf" style="text-decoration:none;">EnlightenGAN: Deep Light Enhancement without
 Paired Supervision</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(1).pdf" style="text-decoration:none;">Scalable constraint-based virtual data center allocation</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(2).pdf" style="text-decoration:none;">Extracting mutual exclusion invariants from lifted temporal planning domains</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(3).pdf" style="text-decoration:none;">Lakatos-style collaborative mathematics through dialectical, structured and abstract argumentation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(4).pdf" style="text-decoration:none;">A synthesis of automated planning and reinforcement learning for efficient, robust decision-making</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(5).pdf" style="text-decoration:none;">Comparing human behavior models in repeated Stackelberg security games: An extended study</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(6).pdf" style="text-decoration:none;">Unsupervised human activity analysis for intelligent mobile robots</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(7).pdf" style="text-decoration:none;">Integrating social power into the decision-making of cognitive agents</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(8).pdf" style="text-decoration:none;"> Evaluating XAI: A comparison of rule-based and example-based explanations </a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(9).pdf" style="text-decoration:none;">Artificial cognition for social human–robot interaction: Animplementation</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(10).pdf" style="text-decoration:none;">Explaining Black-Box Classifiers Using Post-Hoc Explanations-by-Example: The Effect of Explanations and Error-Rates in XAI User Studies</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(11).pdf" style="text-decoration:none;">Robotic manipulation of multiple objects as a POMDP</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(12).pdf" style="text-decoration:none;">MultiWiBi: The multilingual Wikipedia bitaxonomy project</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(13).pdf" style="text-decoration:none;">Distributional semantics of objects in visual scenes incomparison to text</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(14).pdf" style="text-decoration:none;">Making friends on the fly: Cooperating with new teammates</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(15).pdf" style="text-decoration:none;">Evaluating local explanation methods on ground truth</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(16).pdf" style="text-decoration:none;">On rejected arguments and implicit conflicts: The hidden power of argumentation semantics</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(17).pdf" style="text-decoration:none;">Complexity results for preference aggregation over (m)CP-nets: Pareto and majority voting</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(18).pdf" style="text-decoration:none;">The Hanabi challenge: A new frontier for AI research</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(19).pdf" style="text-decoration:none;">Time-delayed collective flow diffusion models for inferring latent people flow from aggregated data at limited locations</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(20).pdf" style="text-decoration:none;">An approach to decision making based
+on dynamic argumentation systems</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(21).pdf" style="text-decoration:none;">SAT Race 2015</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(22).pdf" style="text-decoration:none;">The virtues of idleness: A decidable fragment of resource agent logic</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(23).pdf" style="text-decoration:none;">Making sense of sensory input</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(24).pdf" style="text-decoration:none;">Nasari: Integrating explicit knowledge and corpus statistics for a multilingual representation of concepts and entities</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(25).pdf" style="text-decoration:none;">Efficient symbolic search for cost-optimal planning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(26).pdf" style="text-decoration:none;">Quantifying controllability in temporal networks with uncertainty</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(27).pdf" style="text-decoration:none;">Foundations of ontology-based data access under bag semantics</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(28).pdf" style="text-decoration:none;">Real-time reasoning in OWL2 for GDPR compliance</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(29).pdf" style="text-decoration:none;">Strategy-proof school choice mechanisms with minimum quotas and initial endowments </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(30).pdf" style="text-decoration:none;">The complexity and generality of learning answer set programs</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(31).pdf" style="text-decoration:none;">Train-O-Matic: Supervised Word Sense Disambiguation with no (manual) effort</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(32).pdf" style="text-decoration:none;">Pruning external minimality checking for answer set programs using semantic dependencies</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(33).pdf" style="text-decoration:none;">Boolean algebras of conditionals, probability and logic</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(34).pdf" style="text-decoration:none;">A model of language learning with semantics and meaning-preserving corrections</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(35).pdf" style="text-decoration:none;">Finding a collective set of items: From proportional multirepresentation to group recommendation</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(36).pdf" style="text-decoration:none;">Determining inference semantics for disjunctive logic programs</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(37).pdf" style="text-decoration:none;">Arbitrary arrow update logic</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(38).pdf" style="text-decoration:none;">A parametric propagator for pairs ofSumconstraints with a discrete convexity property</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(39).pdf" style="text-decoration:none;">Online belief tracking using regression for contingent planning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(40).pdf" style="text-decoration:none;">A computational framework for conceptual blending</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(41).pdf" style="text-decoration:none;">Distributed fair allocation of indivisible goods</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(42).pdf" style="text-decoration:none;">Generalized mirror descents in congestion games</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(43).pdf" style="text-decoration:none;">H-index manipulation by merging articles: Models, theory, and experiments</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(44).pdf" style="text-decoration:none;">When autonomous agents model other agents: An appeal for altered judgment coupled with mouths, ears, and a little more tape</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(45).pdf" style="text-decoration:none;">Computing and restoring global inverse consistency in interactive constraint satisfaction</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/gn(46).pdf" style="text-decoration:none;">New local search methods for partial MaxSAT</a></li> 
+                             
 </ul>
 </br>
 
