@@ -2039,7 +2039,190 @@ Paired Supervision</a></li>
 <li class="project-name small-margin">water&nbsp;<a href="https://github.com/D3-AI/water" target="_blank">GitHub</a></li>
 </ul>
 </div>
-
+</br>
+<h2>180 Data Science and ML Projects Solved and Explained with Python</h2>
+<ul>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/" target="_blank" rel="noopener nofollow">Stock Price Prediction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/08/data-science-project-on-president-heights/" target="_blank" rel="noopener nofollow">Data Science Project on President Heights</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/08/data-science-project-on-birth-rate-analysis/" target="_blank" rel="noopener nofollow">Data Science Project on Birth Rate Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/08/data-science-project-on-time-series/" target="_blank" rel="noopener nofollow">Data Science Project on Time Series</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/09/data-science-project-on-area-and-population/" target="_blank" rel="noopener nofollow">Data Science Project on Area and Population</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/18/machine-learning-project-walkthrough-with-python/" target="_blank" rel="noopener nofollow">A Complete Machine Learning Project Walkthrough</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/31/text-summarization-with-python/" target="_blank" rel="noopener nofollow">Text Summarization</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/29/house-price-prediction-with-python/" target="_blank" rel="noopener nofollow">House Price Prediction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/" target="_blank" rel="noopener nofollow">Real-Time Face Mask Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/26/netflix-recommendation-system-with-python/" target="_blank" rel="noopener nofollow">Netflix Recommendation System</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/25/named-entity-recognition-with-python/" target="_blank" rel="noopener nofollow">Named Entity Recognition</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/24/number-plate-detection-with-python/" target="_blank" rel="noopener nofollow">Number Plate Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/23/ipl-analysis-with-python/" target="_blank" rel="noopener nofollow">IPL Analysis with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/23/gold-price-prediction-with-python/" target="_blank" rel="noopener nofollow">Gold Price Prediction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/22/object-detection-with-python/" target="_blank" rel="noopener nofollow">Object Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/21/highest-paid-athletes-analysis-with-python/" target="_blank" rel="noopener nofollow">Highest-Paid Athletes Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/20/text-generation-with-python/" target="_blank" rel="noopener nofollow">Text Generation</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/18/spelling-correction-with-python/" target="_blank" rel="noopener nofollow">Spelling Correction with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/15/income-classification-with-python/" target="_blank" rel="noopener nofollow">Income Classification</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/09/customer-churn-prediction-with-python/" target="_blank" rel="noopener nofollow">Customer Churn Prediction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/08/language-translation-with-python/" target="_blank" rel="noopener nofollow">Language Translation Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/06/resume-screening-with-python/" target="_blank" rel="noopener nofollow">Resume Screening</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/05/sign-language-classification-with-python/" target="_blank" rel="noopener nofollow">Sign Language Classification</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/04/online-shopping-intention-analysis-with-python/" target="_blank" rel="noopener nofollow">Online Shopping Intention Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/03/network-graph-analysis-with-python/" target="_blank" rel="noopener nofollow">Network Graph Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/12/01/keyword-extraction-with-python/" target="_blank" rel="noopener nofollow">Keyword Extraction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/" target="_blank" rel="noopener nofollow">Amazon Best Selling Books Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/" target="_blank" rel="noopener nofollow">Covid-19 Cases Prediction for Next 30 Days</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/" target="_blank" rel="noopener nofollow">YouTube Trending Videos Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/" target="_blank" rel="noopener nofollow">Gender Classification</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/24/flower-recognition-with-python/" target="_blank" rel="noopener nofollow">Flower Recognition</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/23/air-quality-index-analysis-with-python/" target="_blank" rel="noopener nofollow">Air Quality Index Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/" target="_blank" rel="noopener nofollow">Pneumonia Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/" target="_blank" rel="noopener nofollow">Employee Attrition Prediction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/20/hand-gesture-recognition-with-python/" target="_blank" rel="noopener nofollow">Hand Gesture Recognition</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/" target="_blank" rel="noopener nofollow">Restaurant Recommendation System</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">Face mask Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/16/apriori-algorithm-using-python/" target="_blank" rel="noopener nofollow">Market Basket Analysis using Apriori Algorithm</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">Breast Cancer Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/" target="_blank" rel="noopener nofollow">Earthquake Prediction Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/12/outlier-detection-with-python/" target="_blank" rel="noopener nofollow">Outlier Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/" target="_blank" rel="noopener nofollow">Heart Disease Prediction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/09/plastic-users-analysis-with-python/" target="_blank" rel="noopener nofollow">Plastic Users Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">Landmark Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/01/chatbot-with-machine-learning-and-python/" target="_blank" rel="noopener nofollow">Chatbot with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/" target="_blank" rel="noopener nofollow">Next Word Prediction Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/29/age-and-gender-detection-with-python/" target="_blank" rel="noopener nofollow">Age and Gender Detection with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/" target="_blank" rel="noopener nofollow">Autocorrect Keyboard with Python and Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/07/machine-learning-in-5-lines-with-mindsdb/" target="_blank" rel="noopener nofollow">Machine Learning in 5 lines of code.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/03/deepfake-detection-with-python/" target="_blank" rel="noopener nofollow">Deepfake Detection with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/" target="_blank" rel="noopener nofollow">Predict US Elections with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">Fake Currency Detection with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/28/predict-tinder-matches-with-machine-learning/" target="_blank" rel="noopener nofollow">Predict Tinder Matches with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/22/image-segmentation/" target="_blank" rel="noopener nofollow">Image Segmentation</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/05/title-generator-with-machine-learning/" target="_blank" rel="noopener nofollow">Title Generator with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/29/google-search-algorithm-with-python/" target="_blank" rel="noopener nofollow">Build Google Search Algorithm with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/" target="_blank" rel="noopener nofollow">Face Landmarks Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/" target="_blank" rel="noopener nofollow">Pencil Sketch with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/26/openai-gym-in-machine-learning/" target="_blank" rel="noopener nofollow">OpenAI Gym in Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/28/machine-translation-model/" target="_blank" rel="noopener nofollow">Machine Translation Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/05/covid-19-analysis-with-python/" target="_blank" rel="noopener nofollow">Covid 19 Analysis.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/26/tiktok-algorithm-with-machine-learning/" target="_blank" rel="noopener nofollow">Build the TikTok Algorithm with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/23/analyze-ipl-with-python/" target="_blank" rel="noopener nofollow">Analyze ILP Matches.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/" target="_blank" rel="noopener nofollow">Barcode and QR code Reader with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/06/extract-text-from-pdf-using-python/" target="_blank" rel="noopener nofollow">Extract Text From PDF with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/22/predict-ipl-winner-with-machine-learning/" target="_blank" rel="noopener nofollow">Predict IPL Winner 2020.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/21/predict-car-prices-with-machine-learning/" target="_blank" rel="noopener nofollow">Predict Car Prices.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/19/analyze-call-records-with-machine-learning/" target="_blank" rel="noopener nofollow">Analyze Call Records.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/16/api-with-python/" target="_blank" rel="noopener nofollow">Create an API with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/15/send-emails-with-python/" target="_blank" rel="noopener nofollow">Send Custom Emails with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/14/colour-recognition-with-python/" target="_blank" rel="noopener nofollow">Colour Recognition with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/14/3d-video-with-python/" target="_blank" rel="noopener nofollow">Create a 3D Video Animation.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/09/graph-algorithms-with-python/" target="_blank" rel="noopener nofollow">Graph Algorithms in Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/13/image-features-extraction-with-machine-learning/" target="_blank" rel="noopener nofollow">Image Features Extraction.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/11/rainfall-prediction-with-machine-learning/" target="_blank" rel="noopener nofollow">Rainfall Prediction with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/27/classify-nationalities-with-machine-learning/" target="_blank" rel="noopener nofollow">Classify Nationalities with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/04/fraud-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">Fraud Detection with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/24/topic-modeling-with-python/" target="_blank" rel="noopener nofollow">Topic Modeling with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/" target="_blank" rel="noopener nofollow">Named Entity Recognition</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/" target="_blank" rel="noopener nofollow">WhatsApp Group Chat Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/10/translate-using-python/" target="_blank" rel="noopener nofollow">Translate Languages Using Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/12/network-security-with-machine-learning/" target="_blank" rel="noopener nofollow">Network Security Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/14/bar-chart-race-with-python/" target="_blank" rel="noopener nofollow">Bar Chart Race with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/" target="_blank" rel="noopener nofollow">Keyword Research with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/" target="_blank" rel="noopener nofollow">Fashion Recommendation System</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/09/face-detection-with-python/" target="_blank" rel="noopener nofollow">Face Detection with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/16/emotion-detection-model/" target="_blank" rel="noopener nofollow">Emotion Detection Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/" target="_blank" rel="noopener nofollow">Telegram Bot with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/10/handwriting-recognition-with-python/" target="_blank" rel="noopener nofollow">Handwriting Recognition</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/07/visualize-a-solar-system-with-python/" target="_blank" rel="noopener nofollow">Visualize a Solar System with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/" target="_blank" rel="noopener nofollow">Hate Speech Detection Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/24/instagram-filters-with-python/" target="_blank" rel="noopener nofollow">Build Instagram Filters with Python.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/20/contact-tracing-with-machine-learning/" target="_blank" rel="noopener nofollow">Contact Tracing with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/" target="_blank" rel="noopener nofollow">Deploy a Chatbot with Python into a Web Application</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/" target="_blank" rel="noopener nofollow">Summarize Text with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/08/language-classification-with-python/" target="_blank" rel="noopener nofollow">Language Classification with Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/24/otp-verification-gui-with-python/" target="_blank" rel="noopener nofollow">OTP Verification GUI with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/22/create-an-audiobook-with-python/" target="_blank" rel="noopener nofollow">Create an Audiobook with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/25/titanic-survival-with-machine-learning/" target="_blank" rel="noopener nofollow">Titanic Survival Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/26/image-recognition-with-machine-learning-using-pytorch/" target="_blank" rel="noopener nofollow">Image Recognition with PyTorch</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/02/gender-classification-model/" target="_blank" rel="noopener nofollow">Gender Classification Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/27/daily-births-forecasting-with-machine-learning/" target="_blank" rel="noopener nofollow">Daily Births Forecasting</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/28/binary-search-algorithm-with-python/" target="_blank" rel="noopener nofollow">Binary Search Algorithm</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/28/galaxy-classification-with-machine-learning/" target="_blank" rel="noopener nofollow">Galaxy Classification with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/29/time-series-with-lstm-in-machine-learning/" target="_blank" rel="noopener nofollow">Time Series with LSTM Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/" target="_blank" rel="noopener nofollow">Image Classification with TensorFlow</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/30/predict-weather-with-machine-learning/" target="_blank" rel="noopener nofollow">Predict Weather with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/30/how-to-create-a-package-with-python/" target="_blank" rel="noopener nofollow">Create a Package with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/31/opencv-with-python-tutorial/" target="_blank" rel="noopener nofollow">Computer Vision with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/31/diamonds-analysis-with-python/" target="_blank" rel="noopener nofollow">Diamonds Analysis with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/31/text-classification-with-tensorflow-in-machine-learning/" target="_blank" rel="noopener nofollow">Text Classification with TensorFlow</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/01/image-segmentation-with-python/" target="_blank" rel="noopener nofollow">Image Segmentation with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/10/09/ridge-and-lasso-regression-with-python/" target="_blank" rel="noopener nofollow">Ridge and Lasso Regression</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/02/predict-fuel-efficiency-with-machine-learning/" target="_blank" rel="noopener nofollow">Predict Fuel Efficiency</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/03/abc-analysis-with-machine-learning/" target="_blank" rel="noopener nofollow">ABC Analysis with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/06/lung-segmentation-with-machine-learning/" target="_blank" rel="noopener nofollow">Lung Segmentation with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/07/rfm-analysis-with-python/" target="_blank" rel="noopener nofollow">RFM Analysis with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/07/neural-network-with-python-code/" target="_blank" rel="noopener nofollow">Build Neural Network with Python Code</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/08/genetic-algorithm-with-python/" target="_blank" rel="noopener nofollow">Genetic Algorithm with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/08/predict-migration-with-machine-learning/" target="_blank" rel="noopener nofollow">Predict Migration with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/09/analyze-healthcare-data-with-python/" target="_blank" rel="noopener nofollow">Analyze Healthcare Data</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/09/nlp-for-other-languages-with-machine-learning/" target="_blank" rel="noopener nofollow">NLP For Other Languages</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/09/data-science-project-on-text-and-annotations/" target="_blank" rel="noopener nofollow">Data Science Project on Text and Annotations</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/09/data-science-project-on-handwritten-digits/" target="_blank" rel="noopener nofollow">Data Science Project on &mdash; Handwritten Digits</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/06/support-vector-machines-svm-in-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project on- Support Vector Machines</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/11/data-science-project-stock-price-prediction-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Stock Price Prediction with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/14/data-science-project-on-classification-of-text/" target="_blank" rel="noopener nofollow">Data Science Project on &mdash; Classification of Text</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/15/data-science-project-on-extracting-hog-features/" target="_blank" rel="noopener nofollow">Data Science Project on-Extracting HOG Features</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project on &mdash; Amazon Products Reviews Sentiment Analysis with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/17/data-science-project-email-spam-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Email spam Detection with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/20/data-science-project-heart-disease-prediction-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Heart Disease Prediction with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/20/data-science-project-movie-recommendation-system/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Movie Recommendation System</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/21/data-science-project-student-performance-analysis-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Student Performance Analysis with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/22/data-science-project-on-fifa-analysis-with-python/" target="_blank" rel="noopener nofollow">Data Science Project on FIFA Analysis with python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/22/data-science-project-fake-news-classification/" target="_blank" rel="noopener nofollow">Data science project &mdash; Fake News Classification</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/23/data-science-project-dna-sequencing-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; DNA Sequencing with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/23/data-science-project-book-recommendation-system-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Book Recommendation System with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/23/data-science-project-bitcoin-price-prediction-with-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Bitcoin Price Prediction with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/24/machine-learning-project-artificial-neural-networks/" target="_blank" rel="noopener nofollow">Machine Learning Project &mdash; Artificial Neural Networks</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/25/algorithmic-trading-strategy-with-machine-learning-and-python/" target="_blank" rel="noopener nofollow">Algorithmic Trading Strategy with Machine Learning and Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/" target="_blank" rel="noopener nofollow">Movie Reviews Sentiment Analysis -Binary Classification with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/26/data-science-project-supermarket-sales-analysis/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Supermarket Sales Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/26/data-science-project-gdp-analysis/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; GDP Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/26/data-science-project-predict-customer-churn-with-python-and-machine-learning/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; Predict Customer Churn with Python and Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/26/data-science-project-san-francisco-crime-analysis/" target="_blank" rel="noopener nofollow">Data Science Project &mdash; San Francisco Crime Analysis</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/27/machine-learning-project-human-activity-recognition-using-smartphone-data/" target="_blank" rel="noopener nofollow">Machine Learning Project &mdash; Human Activity Recognition using Smartphone Data</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/06/10/credit-card-fraud-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">Credit Card Fraud Detection with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/06/11/weather-forecasting-with-machine-learning/" target="_blank" rel="noopener nofollow">Weather Forecasting with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/" target="_blank" rel="noopener nofollow">SMS Spam Detection with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/09/covid-19-detection/" target="_blank" rel="noopener nofollow">Covid-19 Detection with Machine Learning and AI</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/12/customer-segmentation/" target="_blank" rel="noopener nofollow">Customer Segmentation with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/12/employee-turnover-prediction/" target="_blank" rel="noopener nofollow">Employee Turnover Prediction with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/13/predict-diabetes-with-machine-learning/" target="_blank" rel="noopener nofollow">Predict Diabetes with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/16/pytorch-for-deep-learning/" target="_blank" rel="noopener nofollow">Image Classification with PyTorch</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/01/time-series-analysis-and-forecasting-with-python/" target="_blank" rel="noopener nofollow">Time Series Forecasting with ARIMA Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/16/nlp-for-whatsapp-chats/" target="_blank" rel="noopener nofollow">Natural Language Processing on WhatsApp Chats</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/" target="_blank" rel="noopener nofollow">Fake News Detection Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/19/image-classification-with-ann/" target="_blank" rel="noopener nofollow">Image Classification with Artificial Neural Networks</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/20/binary-classification-model/" target="_blank" rel="noopener nofollow">Binary Classification Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/20/data-augmentation-in-deep-learning/" target="_blank" rel="noopener nofollow">Data Augmentation with Deep Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/" target="_blank" rel="noopener nofollow">Next Word Prediction Model.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/22/image-segmentation/" target="_blank" rel="noopener nofollow">Image Segmentation</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/04/xgboost-in-machine-learning/" target="_blank" rel="noopener nofollow">XGBoost Algorithm in Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/22/face-landmarks-detection/" target="_blank" rel="noopener nofollow">Face Landmarks Detection</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/25/image-filtering-with-machine-learning/" target="_blank" rel="noopener nofollow">Image Filtering with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/28/audio-feature-extraction/" target="_blank" rel="noopener nofollow">Audio Feature Extraction</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/07/28/machine-translation-model/" target="_blank" rel="noopener nofollow">Machine Translation Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/02/gender-classification-model/" target="_blank" rel="noopener nofollow">Gender Classification Model</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/09/14/3d-video-with-python/" target="_blank" rel="noopener nofollow">Create a 3D Video with Python and Machine Learning.</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/" target="_blank" rel="noopener nofollow">Named Entity Recognition</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/" target="_blank" rel="noopener nofollow">WhatsApp Group Chat Analysis</a></li>
+<li>T<a class="ck jr" href="https://thecleverprogrammer.com/2020/08/10/translate-using-python/" target="_blank" rel="noopener nofollow">ranslate Languages Using Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/21/covid-19-projects-with-python-and-machine-learning/" target="_blank" rel="noopener nofollow">Covid-19 Projects with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/" target="_blank" rel="noopener nofollow">Deep Learning Projects with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/23/recommendation-system-projects-with-python/" target="_blank" rel="noopener nofollow">Recommendation System Projects with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/25/sentiment-analysis-projects-with-python/" target="_blank" rel="noopener nofollow">Sentiment Analysis Projects with Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/26/classification-projects-with-python/" target="_blank" rel="noopener nofollow">Classification Projects For Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/27/regression-projects-with-python/" target="_blank" rel="noopener nofollow">Regression Projects for Machine Learning</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/29/chatbot-projects-with-python/" target="_blank" rel="noopener nofollow">Chatbot Projects with Python</a></li>
+<li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/29/machine-learning-projects-on-future-prediction/" target="_blank" rel="noopener nofollow">Machine Learning Projects on Future Prediction</a></li>
+</ul>
 
 
 
