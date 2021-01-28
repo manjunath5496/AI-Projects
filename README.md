@@ -350,6 +350,10 @@
 <li class="toclevel-1 tocsection-17"><a href="#list16"> Top 4 Most Popular Chatbot Projects on Github </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list17"> Core ML Projects </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list18"> 180 Data Science and ML Projects Solved and Explained with Python </a></li>
+<li class="toclevel-1 tocsection-17"><a href="#list19"> Open Access AI and ML Resources </a></li>
+
+
+
 
 </ul>
 
@@ -2305,7 +2309,18 @@ for Artificial Intelligence</a></li>
 <li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/29/chatbot-projects-with-python/" target="_blank" rel="noopener nofollow">Chatbot Projects with Python</a></li>
 <li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/29/machine-learning-projects-on-future-prediction/" target="_blank" rel="noopener nofollow">Machine Learning Projects on Future Prediction</a></li>
 </ul>
+</br>
 
-
-
+<h2 id="list19" class="entry-title">Open Access AI and ML Resources</h2>
+<ul>
+<li class="entry-title"><a href="http://papers.nips.cc/">Neural Information Processing Systems Foundation</a></li>
+<li class="entry-title"><a href="http://www.academia.edu/Documents/in/Machine_Learning">Academia.edu</a></li>
+<li class="entry-title"><a href="https://github.com/search?q=machine+learning&amp;ref=simplesearch">Github</a></li>
+<li class="entry-title"><a href="https://arxiv.org/search/?query=machine+learning&amp;searchtype=all&amp;source=header">arXiv.org</a></li>
+<li class="entry-title"><a href="https://openai.com/progress/">OpenAI</a></li>
+<li class="entry-title"><a href="http://openaccess.thecvf.com/menu.py">Computer Vision Foundation</a></li>
+<li class="entry-title"><a href="http://www.jmlr.org/papers/">Journal of Machine Learning Research</a></li>
+<li class="entry-title"><a href="https://www.mitpressjournals.org/loi/coli">Association for Computational Linguistics</a></li>
+<li class="entry-title"><a href="https://www.youtube.com/results?search_query=machine+learning">YouTube</a></li>
+</ul>
 
