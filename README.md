@@ -1198,7 +1198,7 @@ A Survey</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(178).pdf" style="text-decoration:none;">On Actor-Critic Algorithms</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ml(179).pdf" style="text-decoration:none;">Value Function Approximation in Reinforcement Learning using the Fourier Basis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(1).pdf" style="text-decoration:none;">500 Lines or Less: Experienced Programmers Solve Interesting Problems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(1).pdf" style="text-decoration:none;">Cultural dialects of real and synthetic emotional facial expressions</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(2).pdf" style="text-decoration:none;">Computation: Finite and Infinite Machines</a></li>
 
@@ -1413,7 +1413,7 @@ a Hypothesis</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(99).pdf" style="text-decoration:none;">Eligibility Traces for Off-Policy Policy Evaluation</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(100).pdf" style="text-decoration:none;">Game feature and expertise effects on experienced richness, control and engagement in game play</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(101).pdf" style="text-decoration:none;">System Modelling and Optimization</a></li> 
   
@@ -1424,7 +1424,7 @@ a Hypothesis</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(104).pdf" style="text-decoration:none;">Weighted importance sampling for off-policy learning with linear function approximation</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(105).pdf" style="text-decoration:none;">Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(105).pdf" style="text-decoration:none;">Virtual moral agency, virtual moral responsibility: on the moral significance of the appearance, perception, and performance of artificial agents</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(106).pdf" style="text-decoration:none;">Reinforcement Comparison</a></li> 
   
