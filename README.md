@@ -346,7 +346,7 @@
 <li class="toclevel-1 tocsection-17"><a href="#list12"> 12 Best Computer Vision Projects</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list13"> Top 5 Speech Recognition Open-Source Projects and Libraries</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list14"> 24 Python machine learning libraries for data science projects </a></li>
-
+<li class="toclevel-1 tocsection-17"><a href="#list15"> 10 Awesome Open-Source Python Projects </a></li>
 
 </ul>
 
@@ -1800,6 +1800,18 @@ Paired Supervision</a></li>
 <p>This full suite library provides ML algorithms, as well as tools for collecting and analyzing data. The data mining features help to collect data from Google, Twitter, and Wikipedia. It includes a web crawler and HTML DOM parser. You can use it to collect and train on data in one place.</p>
 </br>
 
-
+<h2 id="list15">10 Awesome Open-Source Python Projects</h2>
+<ul>
+<li><a href="https://github.com/tensorflow/tensorflow" target="_blank">Tensorflow</a></li>
+<li><a href="https://github.com/TheAlgorithms/Python" target="_blank">Python-Algorithms</a></li>
+<li><a href="https://github.com/tensorflow/models" target="_blank">Tensorflow-models</a></li>
+<li><a href="https://github.com/scikit-learn/scikit-learn" target="_blank">Scikit-learn</a></li>
+<li><a href="https://github.com/openai/gym" target="_blank">OpenAI gym</a></li>
+<li><a href="https://github.com/pallets/flask" target="_blank">Flask</a></li>
+<li><a href="https://github.com/django/django" target="_blank">Django</a></li>
+<li><a href="https://github.com/AtsushiSakai/PythonRobotics" target="_blank">PythonRobotics</a></li>
+<li><a href="https://github.com/3b1b/manim" target="_blank">Manim</a></li>
+<li><a href="https://github.com/psf/requests" target="_blank">Requests</a></li>
+</ul>
 
 
