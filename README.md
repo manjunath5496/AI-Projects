@@ -347,6 +347,9 @@
 <li class="toclevel-1 tocsection-17"><a href="#list13"> Top 5 Speech Recognition Open-Source Projects and Libraries</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list14"> 24 Python machine learning libraries for data science projects </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list15"> 10 Awesome Open-Source Python Projects </a></li>
+<li class="toclevel-1 tocsection-17"><a href="#list16"> Top 4 Most Popular Chatbot Projects on Github </a></li>
+
+
 
 </ul>
 
@@ -1813,5 +1816,22 @@ Paired Supervision</a></li>
 <li><a href="https://github.com/3b1b/manim" target="_blank">Manim</a></li>
 <li><a href="https://github.com/psf/requests" target="_blank">Requests</a></li>
 </ul>
+
+</br>
+
+
+<h2 id="list16"><strong>Top 4 Most Popular Chatbot Projects on Github</strong></h2>
+<h2>Botkit</h2>
+<p><a href="https://github.com/howdyai/botkit" target="_blank" rel="noopener noreferrer">Botkit</a>&nbsp;is a development kit from Howdy for creating and integrating bots. It's based on Node.js and is available under the MIT open source license. Developers can use their choice of NLP services, messaging platforms, and databases. Additionally, starter kits are available to create a bot that works in a specific environment, and a number of them are available as separate GitHub projects. Using Botkit, developers can create standalone bots or add one to an existing Node.js application.</p>
+<h2>Chatterbot</h2>
+<p><a href="https://github.com/gunthercox/ChatterBot" target="_blank" rel="noopener noreferrer">Chatterbot</a>&nbsp;is a Python library which implements a "conversational dialog engine" for chatbots and their bots can be created in any human language. Moreover, developers can "train" the bot by giving it statements and responses and a logic adapter matches the user's input against the training data and finds the statement with the closest match. Currently, training files are available in English, Spanish, and Portuguese. The library is available under the BSD 3-clause license.</p>
+<h2>Botpress</h2>
+<p><a href="https://github.com/botpress/botpress" target="_blank" rel="noopener noreferrer">Botpress</a>&nbsp;is a framework for creating bots under Node.js. Its aim is to let developers create bots which non-technical people can manage. The bots use SQLite and PostgreSQL for databases. It's available under the AGPLv3 license, with an option to switch to a paid support license. The design makes heavy use of independent modules, and third parties are encouraged to create and share them. A separate GitHub repository contains officially supported modules.</p>
+<h2>BotMan</h2>
+<p><a href="https://github.com/botman/botman" target="_blank" rel="noopener noreferrer">BotMan</a>&nbsp;is a PHP library for building chatbots distributed under the MIT license and can be used by itself or in a Laravel-based bundle called BotMan Studio. Drivers are available for popular messaging channels, and developers can create their own drivers. A Web Driver and Web Widget allow adding a bot to an HTML page. Middleware hooks are available to add services. Support for the Dialogflow NLP service lets developers create bots with natural-language input.</p>
+
+
+
+
 
 
