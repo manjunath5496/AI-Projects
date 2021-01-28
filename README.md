@@ -344,11 +344,7 @@
 <li class="toclevel-1 tocsection-15"><a href="#list10">7 Best Reinforcement Learning Repositories</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#list11"> 11 Interesting Natural Language Processing Projects</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list12"> 12 Best Computer Vision Projects</a></li>
-<li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
-<li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
-<li class="toclevel-1 tocsection-19"><a href="#future"> AI and the Future</a></li>
-<li class="toclevel-1 tocsection-20"><a href="#psychology"> Psychology and AI</a></li>
-<li class="toclevel-1 tocsection-21"><a href="#tools"> Open-source AI Development Tools</a></li>
+
 </ul>
 
 
