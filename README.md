@@ -1669,6 +1669,17 @@ with an Approximate, Learned Model</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(44).pdf" style="text-decoration:none;">
 Neural Photo Editing with Introspective Adversarial Networks</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(45).pdf" style="text-decoration:none;">Visual Genome</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(46).pdf" style="text-decoration:none;">Fast Visual Object Tracking with Rotated Bounding Boxes</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(47).pdf" style="text-decoration:none;">Image Reconstruction with Predictive Filter Flow</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(48).pdf" style="text-decoration:none;">Image Style Transfer Using Convolutional Neural Networks</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(49).pdf" style="text-decoration:none;">Image Reconstruction Using Deep Learning</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/ol(50).pdf" style="text-decoration:none;">EnlightenGAN: Deep Light Enhancement without
+Paired Supervision</a></li>
 
 
 </ul>
