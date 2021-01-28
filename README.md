@@ -343,7 +343,7 @@
 <li class="toclevel-1 tocsection-9"><a href="#list9"> Top Recommended AI Articles</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#list10">7 Best Reinforcement Learning Repositories</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#list11"> 11 Interesting Natural Language Processing Projects</a></li>
-<li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
+<li class="toclevel-1 tocsection-17"><a href="#list12"> 12 Best Computer Vision Projects</a></li>
 <li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
 <li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
 <li class="toclevel-1 tocsection-19"><a href="#future"> AI and the Future</a></li>
@@ -1706,5 +1706,23 @@ with an Approximate, Learned Model</a></li>
 </ul>
 </div>
 
+</br>
 
-
+<h2 id="list12">12 Best Computer Vision Projects</h2>
+<div class="td-item">
+<div class="td-number-and-title">
+<ul>
+<li><span class="td-sml-current-item-title"><span id="3D_Face_Reconstruction_using_CNN__8211_41k__8211_682">3D Face Reconstruction using CNN&nbsp;</span></span><a href="https://github.com/AaronJackson/vrn" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span class="td-sml-current-item-title"><span id="Real-time_Multi-Person_Pose_Estimation_and_Tracking_System_8211_4k__8211_11k">Real-time Multi-Person Pose Estimation and Tracking System&nbsp;</span></span><a href="https://github.com/MVIG-SJTU/AlphaPose" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li>Automatic Colorization of Photos using Deep Neural Networks&nbsp;&nbsp;<a href="https://github.com/richzhang/colorization" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Editing_natural_photos_using_Generative_Neural_Networks_8211_19k__8211_186">Editing natural photos using Generative Neural Networks&nbsp;</span><a href="https://github.com/ajbrock/Neural-Photo-Editor" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Convolution_Recurrent_Neural_Network_for_Image_Recognition_8211_17k__8211_486">Convolution Recurrent Neural Network for Image Recognition&nbsp;</span><a href="https://github.com/bgshih/crnn" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Lip_Reading_8211_Cross_Audio-Visual_Recognition_using_3D_Architectures_8211_14k__8211_246">Lip Reading &ndash; Cross Audio-Visual Recognition using 3D Architectures&nbsp;</span><a href="https://github.com/astorfi/lip-reading-deeplearning" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Quickdraw_8211_Interactive_drawing_identification_tool_8211_677__8211_107">Quickdraw &ndash; Interactive drawing identification tool&nbsp;</span><a href="https://github.com/uvipen/QuickDraw" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Image_Animation_using_First_Order_Motion_Model_8211_39k__8211_780">Image Animation using First Order Motion Model&nbsp;</span><a href="https://github.com/AliaksandrSiarohin/first-order-model" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Fashion_MNIST__8211_78k__8211_18k">Fashion MNIST&nbsp;</span><a href="https://github.com/zalandoresearch/fashion-mnist" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Cool_Computer_Vision_Projects_8211_37__8211_45">Cool Computer Vision Projects&nbsp;</span><a href="https://github.com/akshaybhatia10/ComputerVision-Projects" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Intermediate_Level_Computer_Vision_Projects__8211_13__82119">Intermediate Level Computer Vision Projects&nbsp;</span><a href="https://github.com/anuragreddygv323/computer-vision-projects" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+</ul>
+</div>
+</div>
