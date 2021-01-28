@@ -342,7 +342,7 @@
 <li class="toclevel-1 tocsection-14"><a href="#list8">Top 20 Python AI and Machine Learning Open Source Projects</a></li>
 <li class="toclevel-1 tocsection-9"><a href="#list9"> Top Recommended AI Articles</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#list10">7 Best Reinforcement Learning Repositories</a></li>
-<li class="toclevel-1 tocsection-16"><a href="#view"> Perspectives On AI</a></li>
+<li class="toclevel-1 tocsection-16"><a href="#list11"> 11 Interesting Natural Language Processing Projects</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
 <li class="toclevel-1 tocsection-18"><a href="#award"> Competitions and awards</a></li>
 <li class="toclevel-1 tocsection-19"><a href="#projects"> AI projects</a></li>
@@ -1687,7 +1687,24 @@ with an Approximate, Learned Model</a></li>
 <li><a href="https://github.com/KaiyangZhou/pytorch-vsumm-reinforce">Video summarization with deep reinforcement learning</a></li>
 </ul>
 
+</br>
 
+<h2 id ="list11" class="entry-title">11 Interesting Natural Language Processing Projects</h2>
+<div class="td-number-and-title">
+<ul>
+<li><span class="td-sml-current-item-title"><span id="DeepMoji_8211_1k__8211_249"><strong>DeepMoji&nbsp;</strong></span></span><a href="https://github.com/bfelbo/DeepMoji" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Me_Bot_8211_610__8211_47"><strong>Me_Bot&nbsp;</strong></span><a href="https://github.com/Spandan-Madan/Me_Bot" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Speech_Emotion_Analyzer_8211_448__8211_171"><strong>Speech Emotion Analyzer&nbsp;</strong></span><a href="https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer">Link to the repository</a></li>
+<li><span id="Automatic_Summarization_of_Scientific_Papers_8211_105__8211_29"><strong>Automatic Summarization of Scientific Papers&nbsp;</strong></span><a href="https://github.com/EdCo95/scientific-paper-summarisation" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Paraphrase_Detection_8211_136__8211_47"><strong>Paraphrase Detection&nbsp;</strong></span><a href="https://github.com/wasiahmad/paraphrase_identification" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Generating_research_paper_titles_8211_46__8211_7"><strong>Generating research paper titles&nbsp;</strong></span><a href="https://github.com/csinva/gpt2-paper-title-generator" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Toxic_Comments_Classification_8211_3_8211_7"><strong>Toxic Comments Classification&nbsp;</strong></span><a href="https://github.com/Prakhar-FF13/Toxic-Comments-Classification" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Document_Similarity_8211_11_8211_14"><strong>Document Similarity&nbsp;</strong></span><a href="https://github.com/machine-learning-projects/document-similarity" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Shakespeare_Text_Generation_8211_3_8211_7"><strong>Shakespeare Text Generation&nbsp;</strong></span><a href="https://github.com/jaintanmay121/Shakespeare-Text-Generation" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Opinion_Summarizer_8211_34__8211_9"><strong>Opinion Summarizer&nbsp;</strong></span><a href="https://github.com/abrazinskas/Copycat-abstractive-opinion-summarizer/tree/master/copycat" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+<li><span id="Document_Similarity_Check_with_RestAPI_8211_34__8211_9"><strong>Document Similarity Check with RestAPI&nbsp;</strong></span><a href="https://github.com/thecraftman/Deploy-a-NLP-Similarity-API-using-Docker" target="_blank" rel="noopener noreferrer">Link to the repository</a></li>
+</ul>
+</div>
 
 
 
