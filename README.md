@@ -344,6 +344,10 @@
 <li class="toclevel-1 tocsection-15"><a href="#list10">7 Best Reinforcement Learning Repositories</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#list11"> 11 Interesting Natural Language Processing Projects</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list12"> 12 Best Computer Vision Projects</a></li>
+<li class="toclevel-1 tocsection-17"><a href="#list13"> Top 5 Speech Recognition Open-Source Projects and Libraries</a></li>
+
+
+
 
 </ul>
 
@@ -1735,3 +1739,13 @@ Paired Supervision</a></li>
 </ul>
 </div>
 </div>
+</br>
+<h2 id="list13" class="fo df fp av cu fq fr fs ft fu fv fw fx fy fz ga gb gc gd ge gf gg gh gi gj gk gl">Top 5 Speech Recognition Open-Source Projects and Libraries</h2>
+<ul>
+<li id="c374" class="kh ki fp av kj kk kl jo km kn ko js kp kq kr ks kt ku kv kw kx ky kz la lb lc gl">DeepSpeech&nbsp;&nbsp;&mdash; Github&nbsp; [<a href="https://github.com/manjunath5496/AI-Projects/blob/main/kn(1).pdf">Paper</a>]</li>
+<li class="kh ki fp av kj kk kl jo km kn ko js kp kq kr ks kt ku kv kw kx ky kz la lb lc gl">Leon &mdash; <a class="dn ib" href="https://github.com/leon-ai/leon" target="_blank" rel="noopener nofollow">Github</a></li>
+<li class="kh ki fp av kj kk kl jo km kn ko js kp kq kr ks kt ku kv kw kx ky kz la lb lc gl">Wav2letter &mdash; <a class="dn ib" href="https://github.com/facebookresearch/wav2letter" target="_blank" rel="noopener nofollow">Github</a>&nbsp;</li>
+<li class="kh ki fp av kj kk kl jo km kn ko js kp kq kr ks kt ku kv kw kx ky kz la lb lc gl">Annyang &mdash; <a class="dn ib" href="https://github.com/TalAter/annyang" target="_blank" rel="noopener nofollow">Github</a></li>
+<li class="kh ki fp av kj kk kl jo km kn ko js kp kq kr ks kt ku kv kw kx ky kz la lb lc gl">SpeechRecognition &mdash; <a class="dn ib" href="https://github.com/Uberi/speech_recognition" target="_blank" rel="noopener nofollow">Github</a></li>
+</ul>
+
