@@ -1887,11 +1887,7 @@ Paired Supervision</a></li>
 <li class="project-name small-margin">Cardea&nbsp;<a href="https://github.com/D3-AI/Cardea" target="_blank">GitHub</a></li>
 </ul>
 </div>
-<div class="Grid-cell u-size1of3 project-card">
-<ul>
-<li class="project-name small-margin">Cardea-API&nbsp;<a href="https://github.com/D3-AI/Cardea-API" target="_blank">GitHub</a></li>
-</ul>
-</div>
+
 <div class="Grid-cell u-size1of3 project-card">
 <ul>
 <li class="project-name small-margin">Copulas&nbsp;<a href="https://github.com/sdv-dev/Copulas" target="_blank">GitHub</a></li>
