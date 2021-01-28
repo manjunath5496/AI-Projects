@@ -1972,11 +1972,7 @@ Paired Supervision</a></li>
 <li class="project-name small-margin">MLPrimitives&nbsp;<a href="https://github.com/HDI-Project/MLPrimitives" target="_blank">GitHub</a></li>
 </ul>
 </div>
-<div class="Grid-cell u-size1of3 project-card">
-<ul>
-<li class="project-name small-margin">ModelAudit&nbsp;<a href="https://github.com/HDI-Project/ModelAudit" target="_blank">GitHub</a></li>
-</ul>
-</div>
+
 <div class="Grid-cell u-size1of3 project-card">
 <ul>
 <li class="project-name small-margin">Orion&nbsp;<a href="https://github.com/D3-AI/Orion" target="_blank">GitHub</a></li>
