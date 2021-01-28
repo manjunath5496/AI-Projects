@@ -2040,11 +2040,6 @@ Paired Supervision</a></li>
 </div>
 <div class="Grid-cell u-size1of3 project-card">
 <ul>
-<li class="project-name small-margin">tsdm&nbsp;<a href="https://github.com/HDI-Project/tsdm" target="_blank">GitHub</a></li>
-</ul>
-</div>
-<div class="Grid-cell u-size1of3 project-card">
-<ul>
 <li class="project-name small-margin">water&nbsp;<a href="https://github.com/D3-AI/water" target="_blank">GitHub</a></li>
 </ul>
 </div>
