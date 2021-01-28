@@ -349,7 +349,7 @@
 <li class="toclevel-1 tocsection-17"><a href="#list15"> 10 Awesome Open-Source Python Projects </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list16"> Top 4 Most Popular Chatbot Projects on Github </a></li>
 <li class="toclevel-1 tocsection-17"><a href="#list17"> Core ML Projects </a></li>
-
+<li class="toclevel-1 tocsection-17"><a href="#list18"> 180 Data Science and ML Projects Solved and Explained with Python </a></li>
 
 </ul>
 
@@ -2040,7 +2040,7 @@ Paired Supervision</a></li>
 </ul>
 </div>
 </br>
-<h2>180 Data Science and ML Projects Solved and Explained with Python</h2>
+<h2 id="list18">180 Data Science and ML Projects Solved and Explained with Python</h2>
 <ul>
 <li><a class="ck jr" href="https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/" target="_blank" rel="noopener nofollow">Stock Price Prediction</a></li>
 <li><a class="ck jr" href="https://thecleverprogrammer.com/2020/05/08/data-science-project-on-president-heights/" target="_blank" rel="noopener nofollow">Data Science Project on President Heights</a></li>
