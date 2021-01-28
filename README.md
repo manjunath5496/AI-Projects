@@ -340,7 +340,7 @@
 <li class="toclevel-1 tocsection-8"><a href="#list6">7 Innovative Machine Learning Projects</a></li>
 <li class="toclevel-1 tocsection-11"><a href="#list7">15 Best Machine Learning Frameworks</a></li>
 <li class="toclevel-1 tocsection-14"><a href="#list8">Top 20 Python AI and Machine Learning Open Source Projects</a></li>
-<li class="toclevel-1 tocsection-9"><a href="#philosophy"> Philosophy Of Artificial Intelligence</a></li>
+<li class="toclevel-1 tocsection-9"><a href="#list9"> Top Recommended AI Articles</a></li>
 <li class="toclevel-1 tocsection-15"><a href="#scholars">Artificial Intelligence Researchers and Scholars</a></li>
 <li class="toclevel-1 tocsection-16"><a href="#view"> Perspectives On AI</a></li>
 <li class="toclevel-1 tocsection-17"><a href="#model"> Top 10 Most Popular AI Models</a></li>
@@ -819,7 +819,7 @@
 </ul>
 <hr>
 
-<h2>Top Recommended AI Articles </h2>
+<h2 id="list9">Top Recommended AI Articles </h2>
 
  
 
