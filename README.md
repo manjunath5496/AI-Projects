@@ -1526,7 +1526,7 @@ A Survey </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(152).pdf" style="text-decoration:none;">Truncating Temporal Differences: On the Efficient Implementation of TD(lambda) for Reinforcement Learning </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(153).pdf" style="text-decoration:none;">Representation and Timing in Theories of the Dopamine System</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(154).pdf" style="text-decoration:none;">Off-Policy Temporal-Dierence Learning
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(154).pdf" style="text-decoration:none;">Off-Policy Temporal-Difference Learning
 with Function Approximation</a></li> 
  
 
@@ -1541,49 +1541,56 @@ with Function Approximation</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(160).pdf" style="text-decoration:none;">On-Line Q-Learning Using Connectionist Systems</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(161).pdf" style="text-decoration:none;">A Simple Bayesian Modelling Approach to Event Extraction from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(161).pdf" style="text-decoration:none;">Non-parametric Approximate Dynamic
+Programming via the Kernel Method</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(162).pdf" style="text-decoration:none;">Bilingual Event Extraction: a Case Study on Trigger Type Determination</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(163).pdf" style="text-decoration:none;">Real-Time Detection, Tracking, and Monitoring of Automatically Discovered Events in Social Media</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(162).pdf" style="text-decoration:none;">Safe and efficient off-policy reinforcement learning</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(163).pdf" style="text-decoration:none;">GQ(lambda): A general gradient algorithm for temporal-difference prediction learning with eligibility traces</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(164).pdf" style="text-decoration:none;">Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(164).pdf" style="text-decoration:none;">Splines and Efficiency in Dynamic Programming</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(165).pdf" style="text-decoration:none;">Generative Event Schema Induction with Entity Disambiguation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(165).pdf" style="text-decoration:none;">Efficient Selectivity and Backup Operators in
+Monte-Carlo Tree Search</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(166).pdf" style="text-decoration:none;">Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(166).pdf" style="text-decoration:none;">Predictability Modulates Human Brain Response to Reward</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(167).pdf" style="text-decoration:none;">Event Detection and Domain Adaptation with Convolutional Neural Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(167).pdf" style="text-decoration:none;">Experiments with Infinite-Horizon, Policy-Gradient Estimation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(168).pdf" style="text-decoration:none;">Seed-Based Event Trigger Labeling:
-How far can event descriptions get us?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(169).pdf" style="text-decoration:none;">Disease Event Detection based on Deep Modality Analysis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(170).pdf" style="text-decoration:none;">A Domain-independent Rule-based Framework for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(171).pdf" style="text-decoration:none;">Storybase: Towards Building a Knowledge Base for News Events</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(172).pdf" style="text-decoration:none;">Liberal Event Extraction and Event Schema Induction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(173).pdf" style="text-decoration:none;">Jointly Event Extraction and Visualization on Twitter via Probabilistic Modelling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(168).pdf" style="text-decoration:none;">Infinite-Horizon Policy-Gradient Estimation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(169).pdf" style="text-decoration:none;">A Predictive Reinforcement Model of Dopamine Neurons for Learning Approach Behavior</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(170).pdf" style="text-decoration:none;">The Linear Programming Approach to Approximate Dynamic Programming</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(171).pdf" style="text-decoration:none;">Off-Policy Temporal-Difference Learning
+with Function Approximation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(172).pdf" style="text-decoration:none;">R-max: A General Polynomial Time Algorithm for
+Near-Optimal Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(173).pdf" style="text-decoration:none;">Random Forests</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(174).pdf" style="text-decoration:none;">RBPB: Regularization-Based Pattern Balancing Method for Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(175).pdf" style="text-decoration:none;">Leveraging FrameNet to Improve Automatic Event Detection</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(176).pdf" style="text-decoration:none;">Temporal Anchoring of Events for the TimeBank Corpus</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(174).pdf" style="text-decoration:none;">Decomposition Techniques for Planning in Stochastic Domains</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(175).pdf" style="text-decoration:none;">How the Basal Ganglia Use Parallel Excitatory and Inhibitory Learning Pathways to Selectively Respond to Unexpected Rewarding Cues</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(176).pdf" style="text-decoration:none;">A Theoretical and Empirical Analysis of Expected Sarsa</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(177).pdf" style="text-decoration:none;">A Language-Independent Neural Network for Event Detection</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(177).pdf" style="text-decoration:none;">Input Generalization in Delayed Reinforcement Learning: An Algorithm And Performance Comparisons</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(178).pdf" style="text-decoration:none;">Event Nugget Detection with Forward-Backward Recurrent Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(179).pdf" style="text-decoration:none;">Identifying Potential Adverse Drug Events in Tweets Using Bootstrapped Lexicons</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(178).pdf" style="text-decoration:none;">Double Q-learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(179).pdf" style="text-decoration:none;">Tuning-free step-size adaptation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(180).pdf" style="text-decoration:none;">Joint Learning for Event Coreference Resolution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(180).pdf" style="text-decoration:none;">XXII. Programming a Computer for Playing Chess </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(181).pdf" style="text-decoration:none;">Automatically Labeled Data Generation for Large Scale Event Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(182).pdf" style="text-decoration:none;">Exploiting Argument Information to Improve Event Detection via Supervised Attention Mechanisms </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(183).pdf" style="text-decoration:none;">English Event DetectionWith Translated Language Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(181).pdf" style="text-decoration:none;">Technical Update: Least-Squares Temporal
+Difference Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(182).pdf" style="text-decoration:none;">Local Learning Algorithms </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(183).pdf" style="text-decoration:none;">A Convergent O(n) Algorithm
+for Off-policy Temporal-difference Learning with Linear Function Approximation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(184).pdf" style="text-decoration:none;">Determining Whether and When People Participate in the Events They Tweet About</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(184).pdf" style="text-decoration:none;">Least-Squares Temporal Difference Learning</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(185).pdf" style="text-decoration:none;">Self-regulation: Employing a Generative Adversarial Network to Improve Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(185).pdf" style="text-decoration:none;">Bayesian theories of conditioning
+in a changing world</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(186).pdf" style="text-decoration:none;">Nugget Proposal Networks for Chinese Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(186).pdf" style="text-decoration:none;">Model-Based Reinforcement Learning
+with an Approximate, Learned Model</a></li>
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(187).pdf" style="text-decoration:none;">Zero-Shot Transfer Learning for Event Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/AI-Projects/blob/master/rl(187).pdf" style="text-decoration:none;">Rollout Algorithms for Combinatorial Optimization</a></li>
                              
 
 
